@@ -1,0 +1,1 @@
+det betyr at svært enkle applikasjoner ofte webapplikasjoner kan gjøre endringer kjøre prosesser eller på annen måte behandle data i en større kontekst

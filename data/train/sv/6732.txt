@@ -1,0 +1,1 @@
+koden i märkspråket ger instruktioner för hur ett datorprogram exempelvis en webbläsare eller ordbehandlare ska presentera text bilder grafisk formgivning länkar med mera

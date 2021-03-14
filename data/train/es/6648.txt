@@ -1,0 +1,1 @@
+es un estándar que sirve de referencia del software que conecta con la  elaboración de páginas web en sus diferentes versiones define una estructura básica y un código denominado código html para la definición de contenido de una página web como texto imágenes videos juegos entre otros

@@ -1,0 +1,1 @@
+however for most applications gravity is well approximated by newtons law of universal gravitation which describes gravity as a force causing any two bodies to be attracted toward each other with magnitude proportional to the product of their masses and inversely proportional to the square of the distance between them

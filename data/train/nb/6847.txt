@@ -1,0 +1,1 @@
+slike samarbeidende programvaredeler betegnes gjerne som komponenter

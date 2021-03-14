@@ -1,0 +1,1 @@
+eit programmeringsgrensesnitt gjer det òg enklare å skriva kode etter som ein ikkje treng å kjenna til og ta omsyn til alle detaljane av operativsystemet

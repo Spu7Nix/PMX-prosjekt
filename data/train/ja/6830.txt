@@ -1,0 +1,1 @@
+api ni wa samazama na keitai ga ari posix no you na kokusai hyouzyun kikaku maikuro sohuto no windows api no you na bendaa ni yoru bunsyo puroguramingu gengo no hyouzyun raiburari tatoeba c no standard template library ya java api nado ga aru

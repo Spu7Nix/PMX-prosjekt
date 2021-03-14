@@ -1,0 +1,1 @@
+projektet bygger på wikiprogramvaran mediawiki som är fri programvara och har öppen källkod

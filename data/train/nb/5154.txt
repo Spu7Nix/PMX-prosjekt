@@ -1,0 +1,1 @@
+måleenheten for effekt i sisystemet er watt og målenheten for arbeid er joule

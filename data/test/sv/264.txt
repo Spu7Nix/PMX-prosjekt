@@ -1,0 +1,1 @@
+datautvinning datamining är ett betydelsenära begrepp som avser en kombiniation av maskininlärning och statistiska metoder för att upptäcka och visualisera mönster i stora mängder data

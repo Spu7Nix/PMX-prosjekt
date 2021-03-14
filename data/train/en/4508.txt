@@ -1,0 +1,1 @@
+the current world geodetic system model uses a spheroid whose radius is 6378137 km 3963191 mi at the equator and 6356752 km 3949903 mi at the poles

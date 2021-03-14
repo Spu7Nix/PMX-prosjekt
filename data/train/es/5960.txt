@@ -1,0 +1,1 @@
+cada línea interna corresponde a un factor del propagador de la partícula virtual correspondiente cada vértice donde las líneas se reúnen da un factor derivado de un término de interacción en el lagrangiano y las líneas entrantes y salientes determinan restricciones en la energía el momento y el espín

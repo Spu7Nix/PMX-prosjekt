@@ -1,0 +1,1 @@
+en este sentido es el proceso por el cual una persona desarrolla un programa valiéndose de una herramienta que le permita escribir el código el cual puede estar en uno o varios lenguajes como c java y python entre otros y de otra que sea capaz de “traducirlo” a lo que se conoce como lenguaje de máquina que puede comprender el microprocesador

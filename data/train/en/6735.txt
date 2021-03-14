@@ -1,0 +1,1 @@
+it is a textual data format with strong support via unicode for different human languages

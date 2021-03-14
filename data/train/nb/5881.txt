@@ -1,0 +1,1 @@
+bevegelsesmengde er en svært sentral størrelse i fysikken siden den i motsetning til hastighet er en bevart størrelse i kollisjoner og andre gjensidige kraftutvekslinger dersom summen av ytre kraftpåvirkninger er null

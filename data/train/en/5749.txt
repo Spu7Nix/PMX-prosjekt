@@ -1,0 +1,1 @@
+the choice to define compressibility as the negative of the fraction makes compressibility positive in the usual case that an increase in pressure induces a reduction in volume

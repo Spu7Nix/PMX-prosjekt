@@ -1,0 +1,1 @@
+filformatet xml organiserer data i en hierarkisk struktur

@@ -1,0 +1,1 @@
+ este no se incrusta directamente en el código de la página sino que se hace una referencia a la ubicación de dicho elemento mediante texto

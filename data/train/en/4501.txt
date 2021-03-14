@@ -1,0 +1,1 @@
+a spheroid or ellipsoid of revolution is a quadric surface obtained by rotating an ellipse about one of its principal axes in other words an ellipsoid with two equal semidiameters

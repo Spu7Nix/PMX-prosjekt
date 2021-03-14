@@ -1,0 +1,1 @@
+many of these quantities are related to each other by various physical laws and as a result the units of a quantities can be generally be expressed as a product of powers of other units for example momentum is mass multiplied by velocity while velocity is measured in distance divided by time

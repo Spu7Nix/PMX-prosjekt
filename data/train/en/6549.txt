@@ -1,0 +1,1 @@
+wiki engines usually allow content to be written using a simplified markup language and sometimes edited with the help of a richtext editor

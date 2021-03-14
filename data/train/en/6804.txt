@@ -1,0 +1,1 @@
+on the server side the unix philosophy originated by ken thompson at bell labs in the early 1970s remains a dominant software standard

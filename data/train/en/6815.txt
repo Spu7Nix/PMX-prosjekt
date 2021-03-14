@@ -1,0 +1,1 @@
+an improper balance between prudence and evolution can lead to engineering culture failure modes such as dll hell of the 1990s spiraling software versioning cascades and dependency hell ongoing

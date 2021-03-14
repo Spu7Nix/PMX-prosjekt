@@ -1,0 +1,1 @@
+when the animated object is more general than for example a humanoid character the set of bones may not be hierarchical or interconnected but simply represent a higherlevel description of the motion of the part of mesh it is influencing

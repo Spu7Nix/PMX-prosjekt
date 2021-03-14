@@ -1,0 +1,1 @@
+gravity has an infinite range although its effects become weaker as objects get further away

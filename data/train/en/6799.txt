@@ -1,0 +1,1 @@
+a good example is the cpm software environment essentially wrapped around the s100 bus standard of 1974 at the onset of the personal computer era

@@ -1,0 +1,1 @@
+this is quite different structurally from traditional databases where it is by definition impossible to have data that is for example within a record but not within any field

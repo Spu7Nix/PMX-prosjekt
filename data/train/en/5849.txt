@@ -1,0 +1,1 @@
+the concept of generalized momentum is carried over into quantum mechanics where it becomes an operator on a wave function

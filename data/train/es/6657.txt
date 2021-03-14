@@ -1,0 +1,1 @@
+html es un lenguaje de marcado que nos permite indicar la estructura de nuestro documento mediante etiquetas

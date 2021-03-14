@@ -1,0 +1,1 @@
+gauges ignore variations caused by waves with periods shorter than minutes

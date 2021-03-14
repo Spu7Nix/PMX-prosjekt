@@ -1,0 +1,1 @@
+det er i dag mulig å kjøre php på et windowswebhotell men de fleste leverandører støtter ikke dette

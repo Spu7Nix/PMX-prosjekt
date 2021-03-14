@@ -1,0 +1,1 @@
+los modelos o programas resultantes deben ser capaces de generalizar comportamientos e inferencias para un conjunto más amplio potencialmente infinito de datos

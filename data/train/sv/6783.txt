@@ -1,0 +1,1 @@
+xmlrekommendationen beskriver både strukturen på xml och vad som krävs av en xmltolk

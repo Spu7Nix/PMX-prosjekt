@@ -1,0 +1,1 @@
+tasks accompanying and related to programming include testing debugging source code maintenance implementation of build systems and management of derived artifacts such as the machine code of computer programs

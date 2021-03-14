@@ -1,0 +1,1 @@
+as of january 2019 github offers unlimited private repositories to all plans including free accounts but allowed only up to  three collaborators per repository for free

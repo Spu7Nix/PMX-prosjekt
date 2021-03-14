@@ -1,0 +1,1 @@
+html can embed programs written in a scripting language such as javascript which affects the behavior and content of web pages

@@ -1,0 +1,1 @@
+målinger på den fysiske jordoverflade projiceres først til den valgte referenceellipsoide for derefter at blive overført til et kortplan ved en valgt kortprojektion

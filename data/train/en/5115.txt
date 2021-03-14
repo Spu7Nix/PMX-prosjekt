@@ -1,0 +1,1 @@
+this switching may be done manually by the operator or automatically by a control unit

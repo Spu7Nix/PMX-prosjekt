@@ -1,0 +1,1 @@
+maskinlæring tager udgangspunkt i data og forsker i og konstruerer algoritmer der på basis af en stor mængde eksempeldata kan finde sammenhænge udarbejde forudsigelser og mønstre baseret på data

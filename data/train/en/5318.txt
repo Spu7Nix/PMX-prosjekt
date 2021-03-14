@@ -1,0 +1,1 @@
+a base quantity is one of a conventionally chosen subset of physical quantities where no quantity in the subset can be expressed in terms of the others

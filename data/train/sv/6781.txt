@@ -1,0 +1,1 @@
+extensible markup language xml är ett universellt och utbyggbart märkspråk och en förenklad efterträdare till sgml

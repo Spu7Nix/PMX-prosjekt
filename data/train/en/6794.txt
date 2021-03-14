@@ -1,0 +1,1 @@
+through information hiding apis enable modular programming allowing users to use the interface independently of the implementation

@@ -1,0 +1,1 @@
+github är en webbaserad och centraliserad lagring av versionshistorik för programvaruutvecklingsprojekt som använder versionshanteringssystemet git

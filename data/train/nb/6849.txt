@@ -1,0 +1,1 @@
+apiet beskriver de metoder som en gitt programvare eller et bibliotek kan kommunisere med

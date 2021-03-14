@@ -1,0 +1,1 @@
+while application in some contexts narrowly refers to the end user application to software developers each layer of the stack is an application with respect to the layer beneath and so the term api arises within the industry wherever two layers or components make contact

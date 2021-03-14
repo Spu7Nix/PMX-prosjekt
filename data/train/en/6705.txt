@@ -1,0 +1,1 @@
+early markup systems typically included typesetting instructions as troff tex and latex do while scribe and most modern markup systems name components and later process those names to apply formatting or other processing as in the case of xml

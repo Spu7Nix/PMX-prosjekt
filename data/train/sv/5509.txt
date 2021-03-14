@@ -1,0 +1,1 @@
+ett föremåls tyngd beräknas genom att multiplicera dess massa med tyngdaccelerationen det vill säga                                   g                  m         g                 displaystyle  gmg   där g är tyngden i newton m är massan i kg och g är tyngdaccelerationen i ms²

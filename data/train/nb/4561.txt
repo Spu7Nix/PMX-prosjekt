@@ -1,0 +1,1 @@
+målinger på den fysiske jordoverflaten projiseres først til den valgte referanseellipsoiden for deretter å overføres til et kartplan ved en valgt kartprojeksjon

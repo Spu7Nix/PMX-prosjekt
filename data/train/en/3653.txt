@@ -1,0 +1,1 @@
+dedicated server hosts provide a server usually housed in a datacenter and connected to the internet where clients can run anything they want including web servers and other servers

@@ -1,0 +1,1 @@
+apiet er abstrakt og fungerer som en regelbok for kall til applikasjonen eller kodebiblioteket

@@ -1,0 +1,1 @@
+it works by hookes law which states that the force needed to extend a spring is proportional to the distance that spring is extended from its rest position

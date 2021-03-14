@@ -1,0 +1,1 @@
+al ser un estándar html busca ser un lenguaje que permita que cualquier página web escrita en una determinada versión pueda ser interpretada de la misma forma estándar por cualquier navegador web actualizado

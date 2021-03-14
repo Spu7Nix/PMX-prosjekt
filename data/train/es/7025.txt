@@ -1,0 +1,1 @@
+en la mayor parte de los métodos de animación por ordenador un animador crea una representación simplificada de la anatomía de un personaje pues tiene menos dificultad para ser animada

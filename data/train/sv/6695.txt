@@ -1,0 +1,1 @@
+html tillåter också att man infogar information av andra typer eventuellt i andra filer från början framförallt bilder senare till exempel datorprogram java javascript och instruktioner för hur sidan skall visas css

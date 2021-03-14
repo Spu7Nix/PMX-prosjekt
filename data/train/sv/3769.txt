@@ -1,0 +1,1 @@
+med ett datorprogram som kallas webbläsare kan användaren ladda ned webbsidor som är lagrade på olika webbservrar webbplatser och navigera mellan sidorna genom att klicka på hyperlänkarna

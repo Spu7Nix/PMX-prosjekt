@@ -1,0 +1,1 @@
+no obstante para interpretar correctamente una nueva versión de html los desarrolladores de navegadores web deben incorporar estos cambios y el usuario debe ser capaz de usar la nueva versión del navegador con los cambios incorporados

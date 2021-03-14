@@ -1,0 +1,1 @@
+ett webbhotell har en internetansluten dator webbserver – i praktiken flera datorer för att klara behovet av kapacitet och tillgänglighet – där flera användare kan lägga upp sina hemsidor eller webbplatser under olika domännamn

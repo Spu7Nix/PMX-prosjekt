@@ -1,0 +1,1 @@
+el problema de calcular secciones eficaces de dispersión en física de partículas se reduce a sumar sobre las amplitudes de todos los estados intermedios posibles en lo que se conoce como expansión perturbativa

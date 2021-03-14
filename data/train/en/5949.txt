@@ -1,0 +1,1 @@
+a feynman diagram is a graphical representation of a perturbative contribution to the transition amplitude or correlation function of a quantum mechanical or statistical field theory

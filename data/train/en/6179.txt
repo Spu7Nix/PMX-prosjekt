@@ -1,0 +1,1 @@
+this convention stems from the early manmade xrays which had energies only up to 100 kev whereas many gamma rays could go to higher energies

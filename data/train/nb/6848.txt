@@ -1,0 +1,1 @@
+man ser dette ofte brukt i for eksempel behandling av data i en database

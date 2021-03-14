@@ -1,0 +1,1 @@
+instead we now have proprietary agents such as amazon alexa and siri which provide naturallanguage user interfaces rather than programmatic apis an entirely different engineering stance toward the human interface boundary

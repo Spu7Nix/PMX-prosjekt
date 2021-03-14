@@ -1,0 +1,1 @@
+although the design of xml focuses on documents the language is widely used for the representation of arbitrary data structures such as those used in web services

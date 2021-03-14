@@ -1,0 +1,1 @@
+energimengda i elektromagnetisk stråling er gjeven ved formelen                         e                  h         c                                      λ                          displaystyle ehclambda    der e er energien i eitt foton h er plancks konstant c er lyshastigheita og λ lambda er bølgjelengda til strålinga

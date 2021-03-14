@@ -1,0 +1,1 @@
+den interne læringsalgoritmen til maskina må dermed vere fastprogrammert i og med at vi ikkje her inkluderer dei såkalla sjølvmodifiserande programma

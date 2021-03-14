@@ -1,0 +1,1 @@
+programmering består av å designe skrive teste feilsøke og vedlikeholde kildekoden til et program som skal tolkes av en datamaskin

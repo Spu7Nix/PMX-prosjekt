@@ -1,0 +1,1 @@
+feynman mostró cómo calcular las amplitudes del diagrama usando las así llamadas reglas de feynman que se pueden derivar del lagrangiano subyacente al sistema

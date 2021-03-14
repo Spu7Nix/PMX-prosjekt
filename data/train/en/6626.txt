@@ -1,0 +1,1 @@
+web browsers receive html documents from a web server or from local storage and render the documents into multimedia web pages

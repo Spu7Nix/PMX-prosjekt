@@ -1,0 +1,1 @@
+han definierar de algoritmer som studeras inom maskininlärning som ett datorprogram sägs lära av erfarenhet e givet en uppgift t och ett prestandamått p om dess prestanda på uppgiften t mätt med p ökar med erfarenhet e

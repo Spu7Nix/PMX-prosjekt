@@ -1,0 +1,1 @@
+in continuum mechanics stress is a physical quantity that expresses the internal forces that neighbouring particles of a continuous material exert on each other while strain is the measure of the deformation of the material

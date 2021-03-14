@@ -1,0 +1,1 @@
+fx html der udgør en hjemmeside bør udgøre strukturen eller skelettet bag hjemmesiden – intet andet

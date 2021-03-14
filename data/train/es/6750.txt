@@ -1,0 +1,1 @@
+a diferencia de otros lenguajes xml da soporte a bases de datos siendo útil cuando varias aplicaciones deben comunicarse entre sí o integrar información

@@ -1,0 +1,1 @@
+el problema es que las autointeracciones de las partículas han sido ignoradas erróneamente

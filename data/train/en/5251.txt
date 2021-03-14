@@ -1,0 +1,1 @@
+these defining constants are the speed of light in vacuum c the hyperfine transition frequency of caesium δνcs the planck constant h the elementary charge e the boltzmann constant k the avogadro constant na and the luminous efficacy kcd

@@ -1,0 +1,1 @@
+stress may also be imposed on a material without the application of net forces for example by changes in temperature or chemical composition or by external electromagnetic fields as in piezoelectric and magnetostrictive materials

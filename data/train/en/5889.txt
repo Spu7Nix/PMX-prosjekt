@@ -1,0 +1,1 @@
+qft is used in particle physics to construct physical models of subatomic particles and in condensed matter physics to construct models of quasiparticles

@@ -1,0 +1,1 @@
+apiet är ett gränssnitt mellan applikationen och biblioteket

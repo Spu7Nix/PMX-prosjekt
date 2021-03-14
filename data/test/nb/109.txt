@@ -1,0 +1,1 @@
+et eksempel på lavnivåprogrammering er maskinkode mens programmering i høynivå vil for eksempel være  java eller c

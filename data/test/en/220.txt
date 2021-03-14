@@ -1,0 +1,1 @@
+machine learning algorithms are used in a wide variety of applications such as email filtering and computer vision where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks

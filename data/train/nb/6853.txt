@@ -1,0 +1,1 @@
+eksempelvis er wine en implementasjon av win32

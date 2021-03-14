@@ -1,0 +1,1 @@
+a subset of machine learning is closely related to computational statistics which focuses on making predictions using computers but not all machine learning is statistical learning

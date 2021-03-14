@@ -1,0 +1,1 @@
+del personaje y posteriormente se animan con controladores de animación

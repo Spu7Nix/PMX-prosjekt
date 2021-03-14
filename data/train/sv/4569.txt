@@ -1,0 +1,1 @@
+om ellipsen roteras kring lillaxeln blir rotationsellipsoiden oblat och om den roteras kring storaxeln blir den prolat

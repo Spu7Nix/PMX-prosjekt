@@ -1,0 +1,1 @@
+en mecánica clásica la cantidad de movimiento se define como el producto de la masa del cuerpo y su velocidad en un instante determinado

@@ -1,0 +1,1 @@
+with an electronic image sensor this produces an electrical charge at each pixel which is electronically processed and stored in a digital image file for subsequent display or processing

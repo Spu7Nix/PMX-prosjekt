@@ -1,0 +1,1 @@
+ett webbhotell är en tjänst som möjliggör för den som inte vill upprätthålla en egen offentlig webbserver att publicera sig på world wide web

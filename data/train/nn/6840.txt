@@ -1,0 +1,1 @@
+nokre som posix og win32  er generelle programmeringsgrensesnitt som sit mellom operativsystemet og brukarprogramma

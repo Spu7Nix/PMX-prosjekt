@@ -1,0 +1,1 @@
+the world wide web consortium w3c former maintainer of the html and current maintainer of the css standards has encouraged the use of css over explicit presentational html since 1997

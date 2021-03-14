@@ -1,0 +1,1 @@
+interactions between particles are described by interaction terms in the lagrangian involving their corresponding quantum fields

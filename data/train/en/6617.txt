@@ -1,0 +1,1 @@
+the aim is to reduce the effort for users trying to express their formatting directly as valid html markup

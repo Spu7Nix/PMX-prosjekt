@@ -1,0 +1,1 @@
+websites are stored in computers that are running a web server which is a program that responds to requests made over the internet from web browsers running on a users computer

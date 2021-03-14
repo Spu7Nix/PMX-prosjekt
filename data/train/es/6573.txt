@@ -1,0 +1,1 @@
+no tiene por qué ser necesariamente un sitio en la web puesto que hay wikis instalables para uso en el escritorio de un computador personal o que pueden portarse en un llavero usb que lleven un entorno lamp como por ejemplo xampp

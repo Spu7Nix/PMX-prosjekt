@@ -1,0 +1,1 @@
+uppmärkning av länkar typografi och annan formatering görs antingen med ett speciellt märkspråk som kallas wikikod och som är enklare att använda än html eller genom wysiwygredigering

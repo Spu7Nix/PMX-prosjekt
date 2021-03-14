@@ -1,0 +1,1 @@
+each interaction can be visually represented by feynman diagrams according to perturbation theory in quantum mechanics

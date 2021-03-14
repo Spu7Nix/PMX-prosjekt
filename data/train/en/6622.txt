@@ -1,0 +1,1 @@
+with html5 some standardization was made on a dom property called contenteditable—which resembles internet explorers original extension

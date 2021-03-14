@@ -1,0 +1,1 @@
+advanced formulations of classical mechanics lagrangian and hamiltonian mechanics allow one to choose coordinate systems that incorporate symmetries and constraints

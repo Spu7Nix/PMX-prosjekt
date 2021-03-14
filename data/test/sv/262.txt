@@ -1,0 +1,1 @@
+det handlar om metoder för att med data träna datorer att upptäcka och lära sig regler för att lösa en uppgift utan att datorerna har programmerats med regler för just den uppgiften

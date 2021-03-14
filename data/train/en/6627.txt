@@ -1,0 +1,1 @@
+html describes the structure of a web page semantically and originally included cues for the appearance of the document

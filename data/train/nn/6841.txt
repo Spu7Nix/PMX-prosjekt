@@ -1,0 +1,1 @@
+andre som alsa jack core audio asio  directsound ladspa etc er spesialprogrammeringsgrensesnitt for digital lyd  medan opengl  og open inventor er spesialprogrammeringsgrensesnitt for grafikk

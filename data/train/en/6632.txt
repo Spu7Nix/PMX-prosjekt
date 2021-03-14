@@ -1,0 +1,1 @@
+tags such as img  and input  directly introduce content into the page

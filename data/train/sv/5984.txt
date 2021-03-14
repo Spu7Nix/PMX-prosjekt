@@ -1,0 +1,1 @@
+feynmandiagram är dock endast meningsfulla om dysonserien konvergerar snabbt

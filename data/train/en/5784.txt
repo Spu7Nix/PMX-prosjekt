@@ -1,0 +1,1 @@
+however if the deformation changes gradually with time even in fluids there will usually be some viscous stress opposing that change

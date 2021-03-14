@@ -1,0 +1,1 @@
+maskinlæring bliver ofte forvekslet med deep learning som er en del af maskinlæring

@@ -1,0 +1,1 @@
+farten af egenbevægelsen angives med tangentialhastigheden og denne kendes kun hvis man også kender afstanden mellem objektet og solen

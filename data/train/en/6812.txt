@@ -1,0 +1,1 @@
+wikipedia is a prominent internet project which maintains programming apis with a semantic flavour see mediawiki apimain page and semantic mediawiki

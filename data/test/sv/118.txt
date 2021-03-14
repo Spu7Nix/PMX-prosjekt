@@ -1,0 +1,1 @@
+detta måste översättas till den maskinkod som maskinen är konstruerad att direkt förstå

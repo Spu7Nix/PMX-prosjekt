@@ -1,0 +1,1 @@
+en muchas ocasiones el campo de actuación del aprendizaje automático se solapa con el de la estadística inferencial ya que las dos disciplinas se basan en el análisis de datos

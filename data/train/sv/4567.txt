@@ -1,0 +1,1 @@
+en rotationsellipsoid eller sfäroid är den rotationskropp som uppstår då en ellips roterar kring den ena av sina axlar och är således ett specialfall av en ellipsoid

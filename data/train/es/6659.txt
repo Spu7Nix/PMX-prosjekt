@@ -1,0 +1,1 @@
+sin embargo a lo largo de sus diferentes versiones se han incorporado y suprimido diversas características con el fin de hacerlo más eficiente y facilitar el desarrollo de páginas web compatibles con distintos navegadores y plataformas pc de escritorio portátiles teléfonos inteligentes tabletas etc

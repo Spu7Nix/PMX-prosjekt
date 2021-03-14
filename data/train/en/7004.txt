@@ -1,0 +1,1 @@
+the frames may also be rendered in real time as they are presented to the enduser audience

@@ -1,0 +1,1 @@
+finally the animation is renderedfor 3d animations all frames must be rendered after the modeling is complete

@@ -1,0 +1,1 @@
+html benyttes til å strukturere informasjon – angi noe tekst som overskrifter avsnitt lister og så videre – og kan i en viss grad brukes til å beskrive utseende og semantikk i et dokument

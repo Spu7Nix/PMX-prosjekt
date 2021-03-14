@@ -1,0 +1,1 @@
+in 2005 google began to deploy asynchronous web applications followed in 2007 with steve jobs making html5 and ajax the central programming paradigm of the iphone while googles android phones adopted much the same philosophy

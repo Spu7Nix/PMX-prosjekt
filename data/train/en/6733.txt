@@ -1,0 +1,1 @@
+extensible markup language xml is a markup language that defines a set of rules for encoding documents in a format that is both humanreadable and machinereadable

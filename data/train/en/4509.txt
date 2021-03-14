@@ -1,0 +1,1 @@
+the word spheroid originally meant an approximately spherical body admitting irregularities even beyond the bi or triaxial ellipsoidal shape and that is how the term is used in some older papers on geodesy for example referring to truncated spherical harmonic expansions of the earth

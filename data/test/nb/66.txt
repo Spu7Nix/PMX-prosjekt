@@ -1,0 +1,1 @@
+statistikk behandler fordelinger og variasjon i numeriske datamengder og også tilfeldige prosesser

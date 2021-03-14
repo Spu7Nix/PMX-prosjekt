@@ -1,0 +1,1 @@
+algoritmen må altså være i stand å generalisere og finne løsninger på problemer den ikke har observert eksempler på tidligere

@@ -1,0 +1,1 @@
+symbolisterne som arbejder med induktionsalgoritmer connectionnisterne der arbejder med backpropagationalgoritmen primært gennem kunstige neurale netværk evolutionisterne som arbejder med genetiske algoritmer bayesianisterne der arbejder med statistisk baserede algoritmer  sammenlignerne der arbejder med algoritmer baseret på at finde de nærmeste naboer

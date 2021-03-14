@@ -1,0 +1,1 @@
+matematikk kan også betraktes som et formelt språk med egne symboler tegn og terminologi der formalismen blir brukt til å beskrive abstrakte objekter relasjoner og strukturer

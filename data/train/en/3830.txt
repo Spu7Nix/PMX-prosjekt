@@ -1,0 +1,1 @@
+data can represent redundant symbols but approaches information through optimal data compression

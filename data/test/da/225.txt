@@ -1,0 +1,1 @@
+maskinlæring er et underområde indenfor datalogi og kunstig intelligens som sætter computere i stand til at lære uden at man eksplicit har programmeret hvordan læringen foregår

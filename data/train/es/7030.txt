@@ -1,0 +1,1 @@
+para animaciones vectoriales 2d el proceso de renderizado es clave para el resultado

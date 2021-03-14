@@ -1,0 +1,1 @@
+disse nye konstanter var valgt da de som kilde var mere præcis end de tidligere definitioner som var beskrevet ved sammenhænd der passede let ind som definition men som stadig kunne variere

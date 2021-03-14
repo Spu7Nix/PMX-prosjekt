@@ -1,0 +1,1 @@
+kilde mangleren fysisk størrelse skrives altid med et mellemrum mellem tallet og enheden dette bør være et hårdt mellemrumstegn så der ikke forekommer linjeskift mellem tal og enhed

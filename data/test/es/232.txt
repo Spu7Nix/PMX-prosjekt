@@ -1,0 +1,1 @@
+​ de forma más concreta los investigadores del aprendizaje de máquinas buscan algoritmos y heurísticas para convertir muestras de datos en programas de computadora sin tener que escribir los últimos explícitamente

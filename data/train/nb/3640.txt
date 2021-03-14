@@ -1,0 +1,1 @@
+github er et amerikansk selskap som leverer vertstjenester for programvareutviklingsprosessen med et versjonskontrollsystem ved bruk av git

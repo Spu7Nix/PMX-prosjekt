@@ -1,0 +1,1 @@
+para las animaciones 3d los objetos se modelan en la computadora modelado y las figuras 3d se unen con un esqueleto virtual huesos

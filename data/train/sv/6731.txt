@@ -1,0 +1,1 @@
+märkspråk engelska markup language sidbeskrivningsspråk är ett format för dokument bestående av särskilda textkoder så kallade taggar eller element som inte syns när dokumentet presenteras för användaren i dess slutgiltiga form

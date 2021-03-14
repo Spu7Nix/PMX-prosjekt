@@ -1,0 +1,1 @@
+utvikleren skriver kode etter en spesifikk syntaks som inneholder instruksjoner på hvordan programmet skal oppføre seg og hvilke kalkulasjoner det skal gjøreman skiller som regel ut nivåene man skriver kode i lavnivå og høynivåprogrammering men også markeringsspråk

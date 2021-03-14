@@ -1,0 +1,1 @@
+it can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees

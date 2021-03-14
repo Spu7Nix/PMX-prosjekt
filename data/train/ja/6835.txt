@@ -1,0 +1,1 @@
+tatoeba posix wa api daga linux standard base lsb wa abi de aru lsb wa iroiro na kitei no syuugou na no de seikaku ni wa lsb ni wa abi ni made humikonde iru bubun mo aru

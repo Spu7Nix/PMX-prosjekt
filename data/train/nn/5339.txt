@@ -1,0 +1,1 @@
+grunneiningane skal ikkje kunne avleiast av kvarandre og skal vere definert slik at dei kan reproduserast særs nøyaktig helst ved hjelp av naturkonstantar

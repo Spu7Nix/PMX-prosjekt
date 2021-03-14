@@ -1,0 +1,1 @@
+css bør benyttes fra eksterne filer til at designe formatere og give siden sit layout

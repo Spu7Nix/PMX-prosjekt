@@ -1,0 +1,1 @@
+tyngden är proportionell mot föremålets massa med en proportionalitetskonstant som är tyngdaccelerationens lokala värde
