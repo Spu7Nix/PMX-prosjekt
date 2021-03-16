@@ -1,1 +1,0 @@
-formen og størrelsen av en rotasjonsellipsoide bestemmes av formen og størrelsen til dens tverrsnitt langs rotasjonsaksen det vil si av ellipsen som brukes for å frembringe den

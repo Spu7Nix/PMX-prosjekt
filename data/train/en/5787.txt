@@ -1,1 +1,1 @@
-stress may exist in the absence of external forces such builtin stress is important for example in prestressed concrete and tempered glass
+any strain deformation of a solid material generates an internal elastic stress analogous to the reaction force of a spring that tends to restore the material to its original nondeformed state

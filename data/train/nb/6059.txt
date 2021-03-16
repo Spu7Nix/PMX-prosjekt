@@ -1,1 +1,1 @@
-kollisjonene med omliggende atomer og molekyler overfører varmeenergi til de andre slik at temperaturen blir jevnere fordelt
+varmeledning ogsaa kjent som termisk konduksjon er overfoering av varme ved kollisjoner mellom termisk agiterte molekyler

@@ -1,0 +1,1 @@
+kilde mangleren fysisk stoerrelse skrives altid med et mellemrum mellem tallet og enheden dette boer vaere et haardt mellemrumstegn saa der ikke forekommer linjeskift mellem tal og enhed

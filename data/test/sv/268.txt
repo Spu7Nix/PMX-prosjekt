@@ -1,1 +1,1 @@
-han definierar de algoritmer som studeras inom maskininlärning som ett datorprogram sägs lära av erfarenhet e givet en uppgift t och ett prestandamått p om dess prestanda på uppgiften t mätt med p ökar med erfarenhet e
+han definierar de algoritmer som studeras inom maskininlaerning som ett datorprogram saegs laera av erfarenhet e givet en uppgift t och ett prestandamaatt p om dess prestanda paa uppgiften t maett med p oekar med erfarenhet e

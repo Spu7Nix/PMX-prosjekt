@@ -1,0 +1,1 @@
+in continuous systems such as electromagnetic fields fluid dynamics and deformable bodies a momentum density can be defined and a continuum version of the conservation of momentum leads to equations such as the navierstokes equations for fluids or the cauchy momentum equation for deformable solids or fluids

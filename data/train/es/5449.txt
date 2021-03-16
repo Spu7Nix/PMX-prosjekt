@@ -1,0 +1,1 @@
+funciona por la ley de hooke que establece que la fuerza necesaria para alargar un resorte es proporcional a la longitud que se extiende el resorte desde su posicion de reposo

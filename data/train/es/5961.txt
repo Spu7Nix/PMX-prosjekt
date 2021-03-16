@@ -1,1 +1,1 @@
-además de su valor como técnica matemática los diagramas de feynman proporcionan penetración física profunda a la naturaleza de las interacciones de las partículas
+el problema de calcular secciones eficaces de dispersion en fisica de particulas se reduce a sumar sobre las amplitudes de todos los estados intermedios posibles en lo que se conoce como expansion perturbativa

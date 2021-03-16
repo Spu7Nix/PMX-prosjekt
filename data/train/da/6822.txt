@@ -1,1 +1,0 @@
-application programming interface forkortet api er en softwaregrænseflade der tillader et stykke software at interagere med andet software

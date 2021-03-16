@@ -1,1 +1,1 @@
-las partículas obran recíprocamente en cada modo posible de hecho la partícula virtual intermediaria se puede propagar más rápidamente que la luz
+estos estados se pueden representar por los diagramas de feynman cuyo calculo resulta menos complejo y mas ilustrativo que el proveniente de la expresion matematica directa

@@ -1,1 +1,1 @@
-since the pioneering work of giuseppe peano 1858–1932 david hilbert 1862–1943 and others on axiomatic systems in the late 19th century it has become customary to view mathematical research as establishing truth by rigorous deduction from appropriately chosen axioms and definitions
+since the pioneering work of giuseppe peano 18581932 david hilbert 18621943 and others on axiomatic systems in the late 19th century it has become customary to view mathematical research as establishing truth by rigorous deduction from appropriately chosen axioms and definitions

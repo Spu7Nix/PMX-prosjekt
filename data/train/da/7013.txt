@@ -1,1 +1,0 @@
-en scene modelleres således i programmet og bevægelse af scenens elementer defineres enten billede for billede eller kan automatisk genereres af teknikker understøttet af programmet

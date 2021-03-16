@@ -1,1 +1,1 @@
-stress that exceeds certain strength limits of the material will result in permanent deformation such as plastic flow fracture cavitation or even change its crystal structure  and chemical composition
+elastic and viscous stresses are usually combined under the name mechanical stress

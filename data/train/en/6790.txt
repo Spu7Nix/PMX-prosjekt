@@ -1,1 +1,0 @@
-an application programming interface api  is a computing interface that defines interactions between multiple software or mixed hardwaresoftware intermediaries

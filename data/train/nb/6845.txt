@@ -1,1 +1,0 @@
-et programmeringsgrensesnitt kjent på engelsk som application programming interface api er et grensesnitt i en programvare som gjør at spesifikke deler av denne kan aktiveres «kjøres» fra en annen programvare

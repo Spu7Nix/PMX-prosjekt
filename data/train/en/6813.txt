@@ -1,1 +1,1 @@
-while application in some contexts narrowly refers to the end user application to software developers each layer of the stack is an application with respect to the layer beneath and so the term api arises within the industry wherever two layers or components make contact
+with the emergence of the public internet in the 1990s based on unix networking protocols web apis became the dominant programming paradigm

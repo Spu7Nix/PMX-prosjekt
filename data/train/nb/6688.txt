@@ -1,1 +1,1 @@
-xhtml påtvinger html de striktere xmlreglene for å gjøre det enklere å prosessere og vedlikehold og er w3cs etterfølger til htmlstandarden
+hypertext markup language html hypertekstmarkeringsspraak er et markeringsspraak for formatering av nettsider med hypertekst og annen informasjon som kan vises i en nettleser

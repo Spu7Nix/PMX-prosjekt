@@ -1,1 +1,0 @@
-un lenguaje de marcado o lenguaje de marcas es una forma de codificar un documento que junto con el texto incorpora etiquetas o marcas que contienen información adicional acerca de la estructura del texto o su presentación

@@ -1,1 +1,1 @@
-el diagrama de feynman y los métodos de la integral de trayectorias también se utilizan en la mecánica estadística
+esto se liga a la formulacion integral funcional de la mecanica cuantica tambien inventada por feynman vease la formulacion integral de trayectorias

@@ -1,1 +1,0 @@
-though very early browsers could display rich text user data entry was limited to text boxes with a single font and style implemented with the textarea html element

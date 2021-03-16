@@ -1,1 +1,1 @@
-the concept of the api is not limited to hardware and code
+early examples were classic mac os introduced in 1984 and microsoft windows introduced in rudimentary form in 1985

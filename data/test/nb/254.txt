@@ -1,1 +1,1 @@
-et hovedfokus innen forskning på maskinlæring er automatisk å lære gjenkjenning av komplekse mønstre og gjøre intelligente beslutninger basert på data
+et hovedfokus innen forskning paa maskinlaering er automatisk aa laere gjenkjenning av komplekse moenstre og gjoere intelligente beslutninger basert paa data

@@ -1,1 +1,1 @@
-these defining constants are the speed of light in vacuum c the hyperfine transition frequency of caesium δνcs the planck constant h the elementary charge e the boltzmann constant k the avogadro constant na and the luminous efficacy kcd
+the seven base units and the 22 derived units with special names and symbols may be used in combination to express other derived units which are adopted to facilitate measurement of diverse quantities

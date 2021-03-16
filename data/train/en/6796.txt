@@ -1,1 +1,0 @@
-almost all modern hardware processing environments provide some manner of hardware abstraction layer hal to abstract around different products with the same product family and may extend across multiple product families so as to ease software migration and software modernization

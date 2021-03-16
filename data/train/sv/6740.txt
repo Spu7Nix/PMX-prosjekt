@@ -1,0 +1,1 @@
+koden i maerkspraaket ger instruktioner foer hur ett datorprogram exempelvis en webblaesare eller ordbehandlare ska presentera text bilder grafisk formgivning laenkar med mera

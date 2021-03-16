@@ -1,1 +1,0 @@
-html kan eksempelvis bruges til at markere en tekst som overskrift eller brødtekst arrangere i punktopstillinger eller tabeler og hyperlink kan indsættes som klikbar tekst

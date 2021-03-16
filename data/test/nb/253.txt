@@ -1,1 +1,1 @@
-det er en vitenskapelig disiplin opptatt av design og utvikling av algoritmer som gjør datamaskiner i stand å lære fra og utvikle atferd basert på empiriske data
+det er en vitenskapelig disiplin opptatt av design og utvikling av algoritmer som gjoer datamaskiner i stand aa laere fra og utvikle atferd basert paa empiriske data

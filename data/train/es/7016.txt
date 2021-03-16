@@ -1,1 +1,0 @@
-cada vez más los gráficos creados son en 3d aunque los gráficos en 2d todavía se siguen usando ampliamente para conexiones lentas y aplicaciones en tiempo real que necesitan renderizar rápido

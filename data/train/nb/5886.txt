@@ -1,0 +1,1 @@
+bevegelsesmengde er en svaert sentral stoerrelse i fysikken siden den i motsetning til hastighet er en bevart stoerrelse i kollisjoner og andre gjensidige kraftutvekslinger dersom summen av ytre kraftpaavirkninger er null

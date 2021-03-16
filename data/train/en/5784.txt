@@ -1,1 +1,1 @@
-however if the deformation changes gradually with time even in fluids there will usually be some viscous stress opposing that change
+these macroscopic forces are actually the net result of a very large number of intermolecular forces and collisions between the particles in those molecules

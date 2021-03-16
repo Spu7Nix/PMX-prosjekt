@@ -1,1 +1,1 @@
-the unit of measurement for weight is that of force which in the international system of units si is the newton
+in science and engineering the weight of an object is the force acting on the object due to gravitysome standard textbooks define weight as a vector quantity the gravitational force acting on the object

@@ -1,1 +1,1 @@
-la animación con huesos también se utiliza para animar otras muchas cosas tales como expresiones faciales un coche u otro objeto que se quiera dotar de movimiento
+los disenos se elaboran con la ayuda de programas de diseno modelado y por ultimo renderizado

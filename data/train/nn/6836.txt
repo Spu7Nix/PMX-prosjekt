@@ -1,1 +1,0 @@
-programmeringsgrensesnitt en application programming interface api er eit programvarelag mellom eit operativsystem og brukarprogramma på ei datamaskin

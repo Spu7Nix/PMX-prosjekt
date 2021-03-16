@@ -1,1 +1,0 @@
-xml brukes imidlertid også til koding av dokumenter og som kommunikasjonsmiddel mellom ulike informasjonssystemer og dataformater

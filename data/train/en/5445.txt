@@ -1,0 +1,1 @@
+in order to infer that the labeled mass values are correct an object must be hung from the spring balance at rest in an inertial reference frame interacting with no other objects but the scale itself

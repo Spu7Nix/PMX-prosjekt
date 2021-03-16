@@ -1,1 +1,1 @@
-in the engineering sciences heat transfer includes the processes of thermal radiation convection and sometimes mass transfer
+in convection the internal energy is carried between bodies by a moving material carrier

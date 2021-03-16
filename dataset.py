@@ -10,6 +10,7 @@ import nltk
 import os
 import re
 import string
+import unidecode
 
 # setup for japanske tegn -> latinske bokstaver
 katsu = cutlet.Cutlet('kunrei')
@@ -109,12 +110,16 @@ for lang, name in all_articles:
     for s in sentences:
         # fjern linjeskift
         t = s.replace('\n', ' ').lower()
+        # erstatt æøå osv
+        t = t.replace('æ', 'ae').replace(
+            'å', 'aa').replace('ø', 'oe').replace('ö', 'oe').replace('ä', 'ae').replace('ä', 'ae')
+        t = unidecode.unidecode(t)
         # fjern noen tall wikipedia setter inn for kilder eller noe
         t = re.sub(r"\[[0-9]*\]", "", t)
         # fjern tegnsetting
         t = t.translate(str.maketrans('', '', string.punctuation))
 
-        # hvis setningen er mindre enn 10 bokstaver, fjern den
+        # hvis setningen er kortere enn 10 bokstaver
         if len(t) < 10:
             continue
         # hvis denne setningens index er mindre enn testdata størrelse

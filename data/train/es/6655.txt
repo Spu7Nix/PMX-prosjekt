@@ -1,1 +1,1 @@
-de este modo la página web contiene solamente texto mientras que recae en el navegador web interpretador del código la tarea de unir todos los elementos y visualizar la página final
+html siglas en ingles de hypertext markup language lenguaje de marcas de hipertexto hace referencia al lenguaje de marcado para la elaboracion de paginas web

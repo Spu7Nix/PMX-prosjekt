@@ -1,1 +1,1 @@
-starting from april 15 2020 the free plan allows unlimited collaborators but restricts private repositories to 2000 minutes of github actions per month
+it provides access control and several collaboration features such as bug tracking feature requests task management continuous integration and wikis for every project

@@ -1,1 +1,1 @@
-html giver også mulighed for indlejring af billeder
+se ogsaa artikler som begynder med htmlhypertext markup language html er et opmaerkningssprog der primaert har til formaal at faa tekst og billeder paa en hjemmeside til at virke som links til andre htmlsider

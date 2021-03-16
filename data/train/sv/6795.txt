@@ -1,0 +1,1 @@
+syftet med xml aer att kunna utvaexla data mellan olika informationssystem

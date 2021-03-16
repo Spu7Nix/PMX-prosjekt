@@ -1,1 +1,1 @@
-omdrejningslegemer bruges blandt andet som referenceflader i geodæsi
+rotationsellipsoiden har form som en faldtrykt kugle selv om en kugle i princippet ogsaa kan betragtes som en rotationsellipsoide

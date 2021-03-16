@@ -1,0 +1,1 @@
+html kan eksempelvis bruges til at markere en tekst som overskrift eller broedtekst arrangere i punktopstillinger eller tabeler og hyperlink kan indsaettes som klikbar tekst

@@ -1,1 +1,1 @@
-​ la probabilidad de cada resultado entonces es obtenida sumando sobre todas tales posibilidades
+sin embargo han de sumarse todos los terminos del desarrollo perturbativo y en ocasiones puede no resultar convergente

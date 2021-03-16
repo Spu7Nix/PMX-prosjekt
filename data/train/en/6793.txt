@@ -1,1 +1,0 @@
-an api can be entirely custom specific to a component or designed based on an industrystandard to ensure interoperability

@@ -1,0 +1,1 @@
+en contraste otro tipo de animacion mas realista seria la captura de movimiento calco semantico del ingles motion capture que requiere que un actor vista un traje especial provisto de sensores siendo sus movimientos captados por una computadora y posteriormente incorporados en el personaje

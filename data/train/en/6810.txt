@@ -1,1 +1,1 @@
-the semantic web as introduced by tim bernerslee in 2001 was a proposal to treat network programming as an api wrapped around the underlying data itself rather than the systems behaviour with a view toward the evolution of intelligent agents as an open innovation entrepreneurship ecosystem
+operating traditionally systems abstract over devices such as disk drives printers and modems

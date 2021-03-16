@@ -1,1 +1,1 @@
-prisen settes på bakgrunn av hvilken funksjonalitet som tilbys på webhotellet hvor stort det er og hvor mye trafikk man genererer hver måned
+webhotell er tilgjengelig paa forskjellige plattformer i hovedsak linux og windows

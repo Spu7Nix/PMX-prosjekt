@@ -1,1 +1,1 @@
-por estas razones todavía existen diferencias entre distintos navegadores y versiones al interpretar una misma página web
+html es un lenguaje de marcado que nos permite indicar la estructura de nuestro documento mediante etiquetas

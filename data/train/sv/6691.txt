@@ -1,1 +1,0 @@
-html förkortning för hypertext markup language är ett märkspråk för hypertext och utgör tillsammans med tcpip och http den grundläggande standarden för www world wide web webben webbsidor skrivs i allmänhet som html och överförs över internet med http

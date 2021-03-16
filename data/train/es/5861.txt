@@ -1,1 +1,1 @@
-en mecánica newtoniana la forma más usual de introducir la cantidad de movimiento es como el producto de la masa kg de un cuerpo material por su velocidad ms para luego analizar su relación con las leyes de newton
+la cantidad de movimiento momento lineal impetu o momentum es una magnitud fisica derivada de tipo vectorial que describe el movimiento de un cuerpo en cualquier teoria mecanica

@@ -1,1 +1,1 @@
-likewise markup for natural language texts must maintain ordering it would not suffice to make each paragraph of a book into a paragraph record where those records do not maintain order
+it also avoids the specification of fonts and dimensions which may not apply to many users such as those with differentsize displays impaired vision and screenreading software

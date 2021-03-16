@@ -1,0 +1,1 @@
+for at se www bruges en applikation kaldet en webbrowser som regel blot benaevnt en browser til at hente websider fra en eller flere webservere og vise dem i en grafisk brugerflade eller tidligere tekstbrugerflade paa brugerens skaerm

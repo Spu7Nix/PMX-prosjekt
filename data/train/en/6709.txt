@@ -1,1 +1,1 @@
-one extremely important characteristic of most markup languages is that they allow mixing markup directly into text streams
+such markup typically includes both content corrections such as spelling punctuation or movement of content and also typographic instructions such as to make a heading larger or boldface

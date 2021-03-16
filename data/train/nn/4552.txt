@@ -1,0 +1,1 @@
+maalingar paa den fysiske jordoverflata blir foerst projisert til den valde referanseellipsoiden for deretter aa bli overfoert til eit kartplan ved ein vald kartprojeksjon

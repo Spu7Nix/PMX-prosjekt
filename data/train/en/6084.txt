@@ -1,1 +1,1 @@
-quantum effects provide additional sources of emr such as the transition of electrons to lower energy levels in an atom and blackbody radiation
+em waves carry energy momentum and angular momentum away from their source particle and can impart those quantities to matter with which they interact

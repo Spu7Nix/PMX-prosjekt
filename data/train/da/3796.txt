@@ -1,1 +1,1 @@
-eksempler på informationssystemer  ledelsesinformationssystemer mis – management information systems beslutningsstøttesystemer ekspertsystemeri vore dage er studiet af informationssystemer et selvstændigt forskningsområde i grænselandet mellem datalogi og organisationsteori
+et informationssystem er et system bestaaende af personer data og aktiviteter der behandler data og informationer i en organisation

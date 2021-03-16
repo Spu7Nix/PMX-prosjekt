@@ -1,1 +1,0 @@
-markup betyder at opmærke og html bruges til at strukturere hjemmesider og bestemme udseendet

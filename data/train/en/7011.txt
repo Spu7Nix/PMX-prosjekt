@@ -1,0 +1,1 @@
+for 2d vector animations the rendering process is the key frame illustration process while tweened frames are rendered as needed

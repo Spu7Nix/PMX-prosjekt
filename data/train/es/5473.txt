@@ -1,1 +1,1 @@
-sin embargo desde un punto de vista legal y práctico se establece que el peso cuando el sistema de referencia es la tierra comprende no solo la fuerza gravitatoria local sino también la fuerza centrífuga local debido a la rotación de la tierra por el contrario el empuje atmosférico no se incluye ni ninguna otra fuerza externa
+en fisica moderna el peso  es una medida de la fuerza gravitatoria que actua sobre un objeto

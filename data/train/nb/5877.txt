@@ -1,1 +1,0 @@
-bevegelsesmengde er en fysisk størrelse som i klassisk fysikk er definert som masse multiplisert med hastighet

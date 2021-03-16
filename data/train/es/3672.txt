@@ -1,0 +1,1 @@
+    un servidor puede proveer distintos tipos genericos aun asi poderosos de alojamiento de internet en los que los clientes pueden montar lo que ellos quieran incluyendo servidores web y otros servidores y tener conexiones de internet con buen ancho de banda de subida

@@ -1,0 +1,1 @@
+html har kontinuerligt utvecklats dels genom standardiseringsorganisationer dels genom att tillverkare av webblaesare och webbservrar infoert egna utvidgningar

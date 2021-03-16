@@ -1,1 +1,1 @@
-murray gellmann se refirió siempre a los diagramas de feynman como diagramas de stückelberg​ por el físico suizo ernst stückelberg que ideó una notación similar
+el uso ingenuo de tales calculos produce a menudo diagramas con amplitudes infinitas lo que es intolerable en una teoria fisica

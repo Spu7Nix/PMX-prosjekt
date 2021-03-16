@@ -1,1 +1,1 @@
-en el enfoque geométrico de la mecánica relativista la definición es algo diferente
+en mecanica newtoniana la forma mas usual de introducir la cantidad de movimiento es como el producto de la masa kg de un cuerpo material por su velocidad ms para luego analizar su relacion con las leyes de newton

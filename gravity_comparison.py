@@ -3,6 +3,9 @@ import math
 import pygame as pg
 import tensorflow_text as text
 import tensorflow as tf
+import unidecode
+import re
+import string
 
 model = tf.keras.models.load_model('sprakmodell.h5')
 
@@ -224,7 +227,17 @@ def main():
                         text = str(paste, encoding="utf-8")
                 else:
                     text += event.unicode
-                text = text.lower()
+                # fjern linjeskift
+                text = text.replace('\n', ' ').lower()
+                # erstatt æøå osv
+                text = text.replace('æ', 'ae').replace(
+                    'å', 'aa').replace('ø', 'oe').replace('ö', 'oe').replace('ä', 'ae').replace('ä', 'ae')
+                text = unidecode.unidecode(text)
+                # fjern noen tall wikipedia setter inn for kilder eller noe
+                text = re.sub(r"\[[0-9]*\]", "", text)
+                # fjern tegnsetting
+                text = text.translate(
+                    str.maketrans('', '', string.punctuation))
                 input_body.weights = run_model(text)
         screen.fill((0, 0, 0))
 

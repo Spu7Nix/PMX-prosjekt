@@ -1,0 +1,1 @@
+disse produceres ved at bruge stort startbogstav for hvert ord og fjerne mellemrummene mellem ordene dette medfoerer at frasen automatisk laves til et link wikipedia bruger ikke laengere camelcase

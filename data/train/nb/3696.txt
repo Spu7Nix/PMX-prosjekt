@@ -1,1 +1,1 @@
-hvis du skal kjøre php må du hos de fleste leverandører velge linux og dersom du skal kjøre asp eller aspnet må du velge windows
+plassen paa webhotellet knyttes som regel til et domenenavn og inkluderer som oftest ogsaa epostadresser

@@ -1,1 +1,1 @@
-the concept of generalized momentum is carried over into quantum mechanics where it becomes an operator on a wave function
+momentum depends on the frame of reference but in any inertial frame it is a conserved quantity meaning that if a closed system is not affected by external forces its total linear momentum does not change

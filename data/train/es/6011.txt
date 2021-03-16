@@ -1,0 +1,1 @@
+un importante punto de partida para mucho analisis es el teorema de bloch que caracteriza las funciones de onda de electrones en un potencial periodico

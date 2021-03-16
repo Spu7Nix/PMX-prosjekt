@@ -1,1 +1,1 @@
-ved hjelp av programmeringsspråk kan ein person laga instruksar til ein datamaskin som fortel den korleis den skal løyse ei gitt oppgåve
+ved hjelp av programmeringsspraak kan ein person laga instruksar til ein datamaskin som fortel den korleis den skal loeyse ei gitt oppgaave

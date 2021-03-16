@@ -1,1 +1,0 @@
-la interfaz de programación de  aplicaciones conocida también por la sigla api en inglés application programming interface​ es un conjunto de subrutinas funciones y procedimientos o métodos en la programación orientada a objetos que ofrece cierta biblioteca para ser utilizado por otro software como una capa de abstracción

@@ -1,1 +1,0 @@
-it offers the distributed version control and source code management scm functionality of git plus its own features

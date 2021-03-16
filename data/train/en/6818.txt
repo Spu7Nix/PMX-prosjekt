@@ -1,1 +1,1 @@
-due to the covid19 pandemic the oral hearings in the case were delayed until october 2020
+the semantic web as introduced by tim bernerslee in 2001 was a proposal to treat network programming as an api wrapped around the underlying data itself rather than the systems behaviour with a view toward the evolution of intelligent agents as an open innovation entrepreneurship ecosystem

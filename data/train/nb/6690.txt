@@ -1,1 +1,1 @@
-w3c anbefaler at man bruker enten xhtml 11 xhtml 10 eller html 401 når man lager nettsider
+htmls grammatiske struktur er html dtd som ble skapt ved aa gjoere bruk av sgml syntaks som er en internasjonal standard for tekstformatering iso 8879

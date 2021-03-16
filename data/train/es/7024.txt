@@ -1,1 +1,1 @@
-finalmente se renderiza la animación
+un programa bastante utilizado para hacer este tipo de animaciones es blender esta se utilizo para hacer la animacion de la derecha

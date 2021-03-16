@@ -1,1 +1,1 @@
-conventional gearbelt transmissions are not the only mechanism for speedtorque adaptation
+directional forward and reverse control may also be provided

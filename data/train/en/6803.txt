@@ -1,1 +1,1 @@
-gradually user devices such as musical instruments with midi interfaces 1980sera game controllers and 1990sera usb peripherals were increasingly abstracted by operating system device drivers an important api layer internal to the operating system itself
+apis have their origin in the quest for hardware independence dating back in concrete form to programming community that formed around the univac 1108 first introduced in 1964

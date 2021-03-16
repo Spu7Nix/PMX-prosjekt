@@ -1,1 +1,1 @@
-​ el trabajo necesario para producir un vatio de potencia durante un segundo
+  en esta definicion al ser tan especifica no se consideran tipos de resistencia como el roce del aire

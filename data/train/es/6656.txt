@@ -1,1 +1,1 @@
-al ser un estándar html busca ser un lenguaje que permita que cualquier página web escrita en una determinada versión pueda ser interpretada de la misma forma estándar por cualquier navegador web actualizado
+es un estandar que sirve de referencia del software que conecta con la  elaboracion de paginas web en sus diferentes versiones define una estructura basica y un codigo denominado codigo html para la definicion de contenido de una pagina web como texto imagenes videos juegos entre otros

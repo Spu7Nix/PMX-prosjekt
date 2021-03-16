@@ -1,1 +1,1 @@
-the relation between mechanical stress deformation and the rate of change of deformation can be quite complicated although a linear approximation may be adequate in practice if the quantities are sufficiently small
+however if the deformation changes gradually with time even in fluids there will usually be some viscous stress opposing that change

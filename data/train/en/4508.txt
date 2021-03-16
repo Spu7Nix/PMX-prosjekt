@@ -1,1 +1,1 @@
-the current world geodetic system model uses a spheroid whose radius is 6378137 km 3963191 mi at the equator and 6356752 km 3949903 mi at the poles
+if the ellipse is rotated about its major axis the result is a prolate elongated spheroid shaped like an american football or rugby ball

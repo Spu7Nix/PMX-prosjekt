@@ -1,1 +1,1 @@
-gauges ignore variations caused by waves with periods shorter than minutes
+they are however only predictions the actual time and height of the tide is affected by wind and atmospheric pressure

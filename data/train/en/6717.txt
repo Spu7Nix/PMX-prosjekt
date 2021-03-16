@@ -1,0 +1,1 @@
+one extremely important characteristic of most markup languages is that they allow mixing markup directly into text streams

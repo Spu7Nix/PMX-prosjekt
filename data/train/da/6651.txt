@@ -1,0 +1,1 @@
+skelne teksttyper og vise indholdet formateret efter den type det er markeret som

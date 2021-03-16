@@ -1,1 +1,1 @@
-an information system is a work system whose activities are devoted to capturing transmitting storing retrieving manipulating and displaying informationas such information systems interrelate with data systems on the one hand and activity systems on the other
+an information system is the information and communication technology ict that an organization uses and also the way in which people interact with this technology in support of business processessome authors make a clear distinction between information systems computer systems and business processes

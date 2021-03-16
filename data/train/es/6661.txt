@@ -1,1 +1,1 @@
-normalmente los cambios son aplicados mediante parches de actualización automática firefox chrome u ofreciendo una nueva versión del navegador con todos los cambios incorporados en un sitio web de descarga oficial internet explorer
+para anadir un elemento externo a la pagina imagen video script entre otros

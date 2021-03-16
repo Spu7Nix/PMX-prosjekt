@@ -1,0 +1,1 @@
+de eksakte kravene til et konkret spraak som bygger paa xml fastsettes av en dtd eller et xmlskjema spesielt xml schema xsd

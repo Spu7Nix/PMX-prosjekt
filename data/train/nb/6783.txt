@@ -1,0 +1,1 @@
+xml er et verktoey for deling av strukturerte data mellom informasjonssystemer saerlig over internett

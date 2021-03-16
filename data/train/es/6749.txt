@@ -1,1 +1,0 @@
-proviene del lenguaje sgml y permite definir la gramática de lenguajes específicos de la misma manera que html es a su vez un lenguaje definido por sgml para estructurar documentos grandes

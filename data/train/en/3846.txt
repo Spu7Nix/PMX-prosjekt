@@ -1,0 +1,1 @@
+for example the information encoded in one fair coin flip is log221  1 bit and in two fair coin flips is log241  2 bits

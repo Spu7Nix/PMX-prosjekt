@@ -1,1 +1,1 @@
-operating traditionally systems abstract over devices such as disk drives printers and modems
+through information hiding apis enable modular programming allowing users to use the interface independently of the implementation

@@ -1,0 +1,1 @@
+aarsaken til at nm baade kan uttrykke energi og kraft som funksjon av avstand er at kraften og avstanden har sammenfallende retninger for energimaalet men er ortogonale maales  tvers 90 grader paa hverandre for dreiemomentet

@@ -1,1 +1,0 @@
-sannolikheten att en viss växelverkan skall ske kan beräknas genom att rita motsvarande diagram och använda det för att härleda det korrekta matematiska uttrycket

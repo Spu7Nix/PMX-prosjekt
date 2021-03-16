@@ -1,1 +1,1 @@
-other rules may be imposed to organize content
+a wiki engine being a form of a content management system differs from other webbased systems such as blog software in that the content is created without any defined owner or leader and wikis have little inherent structure allowing structure to emerge according to the needs of the users

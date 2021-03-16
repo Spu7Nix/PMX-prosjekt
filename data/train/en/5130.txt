@@ -1,1 +1,1 @@
-the output power of a motor is the product of the torque that the motor generates and the angular velocity of its output shaft
+automatic transmissions use a valve body to shift gears using fluid pressures in response to speed and throttle input

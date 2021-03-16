@@ -1,0 +1,1 @@
+ett api eller applikationsprogrammeringsgraenssnitt av engelskans application programming interface aer en specifikation av hur olika applikationsprogram kan anvaenda och kommunicera med en specifik programvara som vanligen utgoers av ett dynamiskt laenkat bibliotek och som daermed blir en mjukvarukomponent i applikationen

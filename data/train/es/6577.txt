@@ -1,1 +1,0 @@
-la mayor parte de las implementaciones de wikis indican en el localizador de recursos uniforme url de la página el propio título de la página wiki en wikipedia ocurre así httpseswikipediaorgwikialpinismo es el url de la página wiki alpinismo lo que facilita el uso y la aplicación general del enlace fuera del propio sitio web

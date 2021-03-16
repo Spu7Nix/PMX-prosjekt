@@ -1,0 +1,1 @@
+normalmente los cambios son aplicados mediante parches de actualizacion automatica firefox chrome u ofreciendo una nueva version del navegador con todos los cambios incorporados en un sitio web de descarga oficial internet explorer

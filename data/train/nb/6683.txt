@@ -1,1 +1,0 @@
-html ble opprinnelig definert i 1989 av tim bernerslee og robert caillau og videreutviklet av ietf og er nå en internasjonal standard isoiec 154452000

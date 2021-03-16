@@ -1,1 +1,1 @@
-the transition amplitude is then given as the matrix element of the smatrix between the initial and the final states of the quantum system
+the calculation of probability amplitudes in theoretical particle physics requires the use of rather large and complicated integrals over a large number of variables

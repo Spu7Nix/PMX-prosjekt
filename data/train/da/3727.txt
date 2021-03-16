@@ -1,1 +1,0 @@
-brugeren kan følge hyperlinks til andre websider – eller sende information tilbage til en server via en webformular

@@ -1,1 +1,1 @@
-elastic and viscous stresses are usually combined under the name mechanical stress
+stress is frequently represented by a lowercase greek letter sigma s

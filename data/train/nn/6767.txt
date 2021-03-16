@@ -1,1 +1,0 @@
-xml extensible markup language er ein måte å strukturere tekst på ved å definere kva ulike delar av teksten er ved å nytte tekstkoding eller markeringskodar kalla taggar

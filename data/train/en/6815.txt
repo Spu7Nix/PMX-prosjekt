@@ -1,1 +1,1 @@
-an improper balance between prudence and evolution can lead to engineering culture failure modes such as dll hell of the 1990s spiraling software versioning cascades and dependency hell ongoing
+with the mobile ecology beginning to dominate everyday usage javascript rose to increasing prominence within the html5 landscape and networkcentric software apis have now proliferated to almost every realm of human enterprise

@@ -1,1 +1,1 @@
-sin embargo a lo largo de sus diferentes versiones se han incorporado y suprimido diversas características con el fin de hacerlo más eficiente y facilitar el desarrollo de páginas web compatibles con distintos navegadores y plataformas pc de escritorio portátiles teléfonos inteligentes tabletas etc
+es el estandar que se ha impuesto en la visualizacion de paginas web y es el que todos los navegadores actuales han adoptado

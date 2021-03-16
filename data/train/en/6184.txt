@@ -1,1 +1,1 @@
-gamma rays cannot be reflected off a mirror and their wavelengths are so small that they will pass between atoms in a detector
+in astrophysics gamma rays are conventionally defined as having photon energies above 100 kev and are the subject of gamma ray astronomy while radiation below 100 kev is classified as xrays and is the subject of xray astronomy

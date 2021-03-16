@@ -1,0 +1,1 @@
+por ser una fuerza el peso se representa como un vector definido por su modulo direccion y sentido aplicado en el centro de gravedad del cuerpo y dirigido aproximadamente hacia el centro de la tierra

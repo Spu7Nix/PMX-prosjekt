@@ -1,1 +1,1 @@
-github continua siendo la plataforma más importante de colaboración para proyectos open source
+se utiliza principalmente para la creacion de codigo fuente de programas de ordenador

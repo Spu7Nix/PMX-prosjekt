@@ -1,0 +1,1 @@
+programkoden kommuniserer daa med funksjonar i foerehandsdefinerte object i staden for brukargrensesnittet til operativsystemet

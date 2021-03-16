@@ -1,1 +1,1 @@
-in liquids and gases only deformations that change the volume generate persistent elastic stress
+the container walls and the pressureinducing surface such as a piston push against them in newtonian reaction

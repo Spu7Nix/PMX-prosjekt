@@ -1,1 +1,1 @@
-para detectarlos en ambos casos se utiliza el efecto compton
+los rayos gamma se producen por desexcitacion de un nucleon de un nivel o estado excitado a otro de menor energia y por desintegracion de isotopos radiactivos

@@ -1,1 +1,1 @@
-av den grunn ser mange på xhtml som den «nyeste versjonen» av html men i virkeligheten er dette en egen parallell standard
+html benyttes til aa strukturere informasjon  angi noe tekst som overskrifter avsnitt lister og saa videre  og kan i en viss grad brukes til aa beskrive utseende og semantikk i et dokument

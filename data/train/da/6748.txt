@@ -1,0 +1,1 @@
+en lang raekke formater er udvidelser af xml fx xhtml og xsl men ogsaa fx microsoft word 2007 og openofficeorg writer gemmer dokumenter i formater der er udvidelser af xml

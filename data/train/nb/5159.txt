@@ -1,1 +1,1 @@
-102 gram 1 meter opp per sekund ved jordoverflaten
+maaleenheten for effekt i sisystemet er watt og maalenheten for arbeid er joule

@@ -1,1 +1,1 @@
-as pcs became more powerful more powerful operating systems began to offer windowed user environments in which to run sophisticated application software
+it can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees

@@ -1,0 +1,1 @@
+despues de realizada la renormalizacion los calculos de diagramas de feynman emparejan a menudo resultados experimentales con exactitud muy buena

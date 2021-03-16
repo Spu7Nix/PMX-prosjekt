@@ -1,1 +1,1 @@
-først i hipparcosprosjektet har man fått stjerneposisjonene og egenbevegelsen inn i et veldefinert ikkeroterende system knyttet til fjerne kvasarer
+egenbevegelse er en stjernes vinkelbevegelse tangentielt mot synslinjen

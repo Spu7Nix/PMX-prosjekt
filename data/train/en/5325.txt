@@ -1,1 +1,1 @@
-those that can be expressed in this fashion in terms of the base units are called derived units
+a base unit is one that has been explicitly so designated a secondary unit for the same quantity is a derived unit

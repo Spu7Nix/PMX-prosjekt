@@ -1,1 +1,1 @@
-browsers do not display the html tags but use them to interpret the content of the page
+html elements are the building blocks of html pages

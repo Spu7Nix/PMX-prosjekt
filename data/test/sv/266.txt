@@ -1,1 +1,1 @@
-ofta kan datan delas in i indata den information som datorn får tillgång till och utdata det svar som datorn förväntas ge efter att ha bearbetat indatan
+ofta kan datan delas in i indata den information som datorn faar tillgaang till och utdata det svar som datorn foervaentas ge efter att ha bearbetat indatan

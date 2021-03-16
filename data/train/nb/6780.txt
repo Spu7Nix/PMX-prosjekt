@@ -1,1 +1,0 @@
-noen kjente beskrivelsesformalismer som bygger på xml er rss xhtml html5 mathml og scalable vector graphics svg

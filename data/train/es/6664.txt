@@ -1,1 +1,1 @@
-es por ello que ciertos navegadores todavía mantienen la capacidad de interpretar páginas web de versiones html anteriores
+al ser un estandar html busca ser un lenguaje que permita que cualquier pagina web escrita en una determinada version pueda ser interpretada de la misma forma estandar por cualquier navegador web actualizado

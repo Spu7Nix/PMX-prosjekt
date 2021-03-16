@@ -1,1 +1,1 @@
-así mismo las páginas escritas en una versión anterior de html deberían ser actualizadas o reescritas lo que no siempre se cumple
+de este modo la pagina web contiene solamente texto mientras que recae en el navegador web interpretador del codigo la tarea de unir todos los elementos y visualizar la pagina final

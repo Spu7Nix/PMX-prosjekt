@@ -1,0 +1,1 @@
+xhtml paatvinger html de striktere xmlreglene for aa gjoere det enklere aa prosessere og vedlikehold og er w3cs etterfoelger til htmlstandarden

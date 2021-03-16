@@ -1,1 +1,1 @@
-feynmandiagram är i grunden en bokföringsmetod med en enkel visuell fysikalisk tolkning av en händelse
+ett feynmandiagram aer en beraekningsmetod inom kvantfaeltteorin uppfunnen av den amerikanske fysikern richard feynman

@@ -1,1 +1,1 @@
-free github accounts are commonly used to host opensource projects
+github inc is a provider of internet hosting for software development and version control using git

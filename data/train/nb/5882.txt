@@ -1,1 +1,1 @@
-andre betegnelser for bevegelsesmengde er massefart impuls og driv hvor driv er mest brukt i dagligtale og impuls er vanlig i mer abstrakt betydning
+bevegelsesmengde er en fysisk stoerrelse som i klassisk fysikk er definert som masse multiplisert med hastighet

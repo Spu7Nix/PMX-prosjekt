@@ -1,1 +1,0 @@
-the resources of the web are transferred via the hypertext transfer protocol http may be accessed by users by a software application called a web browser and are published by a software application called a web server

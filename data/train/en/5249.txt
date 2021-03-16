@@ -1,1 +1,1 @@
-the si is intended to be an evolving system units and prefixes are created and unit definitions are modified through international agreement as the technology of measurement progresses and the precision of measurements improves
+the system allows for an unlimited number of additional units called derived units which can always be represented as products of powers of the base units

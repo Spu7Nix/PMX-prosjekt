@@ -1,0 +1,1 @@
+for that reason in cartography and geodesy the earth is often approximated by an oblate spheroid known as the reference ellipsoid instead of a sphere

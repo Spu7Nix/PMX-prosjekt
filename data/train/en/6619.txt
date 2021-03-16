@@ -1,1 +1,0 @@
-internet explorer was the first to add a special designmode which allowed formatted parts of a document to be edited by the user using a cursor

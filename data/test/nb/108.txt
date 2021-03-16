@@ -1,1 +1,1 @@
-kort sagt består lavnivåprogrammering av koding hvor det er svært få abstraksjoner eller lag mellom koden utvikleren skriver og instruksjonene som maskinen leser
+kort sagt bestaar lavnivaaprogrammering av koding hvor det er svaert faa abstraksjoner eller lag mellom koden utvikleren skriver og instruksjonene som maskinen leser

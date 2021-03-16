@@ -1,0 +1,1 @@
+por lo que un navegador desactualizado no sera capaz de interpretar correctamente una pagina web escrita en una version de html superior a la que pueda interpretar lo que obliga muchas veces a los desarrolladores a aplicar tecnicas y cambios que permitan corregir problemas de visualizacion e incluso de interpretacion de codigo html

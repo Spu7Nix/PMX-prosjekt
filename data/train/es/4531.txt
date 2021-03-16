@@ -1,1 +1,1 @@
-​  varios planetas y otros objetos astronómicos tienen formas de esferoides oblatos por ejemplo saturno y altair así como en menor grado la misma tierra véase forma de la tierra
+por convenio el eje de simetria se denomina c y se situa en el eje de coordenadas cartesianas z  el eje perpendicular al de simetria se denomina a si a  c el eje de simetria es el menor la superficie se llama esferoide oblato o simplemente esferoide

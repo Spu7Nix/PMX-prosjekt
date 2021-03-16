@@ -1,1 +1,0 @@
-las magnitudes físicas se miden usando un patrón que tenga bien definida esa magnitud y tomando como unidad la cantidad de esa propiedad que posea el objeto patrón

@@ -1,1 +1,1 @@
-el servicio de alojamiento de dns habitualmente viene en conjunto con el registro de dominios
+un servicio de alojamiento de internet es un servicio que opera servidores de internet permitiendole a organizaciones e individuos subir y alojar contenido

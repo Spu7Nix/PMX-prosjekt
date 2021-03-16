@@ -1,1 +1,1 @@
-in the early days the hardware api dominated
+an application programming interface api  is a computing interface that defines interactions between multiple software applications or mixed hardwaresoftware intermediaries

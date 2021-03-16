@@ -1,1 +1,1 @@
-the differences in appearance between key frames are automatically calculated by the computer in a process known as tweening or morphing
+sometimes the target of the animation is the computer itself but sometimes film as well

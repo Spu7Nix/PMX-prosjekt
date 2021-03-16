@@ -1,1 +1,0 @@
-xmlkoden kan inte definiera vilka element eller attribut som kan användas

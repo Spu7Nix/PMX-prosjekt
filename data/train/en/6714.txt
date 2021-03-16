@@ -1,0 +1,1 @@
+some markup languages such as the widely used html have predefined presentation semanticsmeaning that their specification prescribes some aspects of how to present the structured data on particular media

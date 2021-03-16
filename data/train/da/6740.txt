@@ -1,1 +1,0 @@
-en lang række formater er udvidelser af xml fx xhtml og xsl men også fx microsoft word 2007 og openofficeorg writer gemmer dokumenter i formater der er udvidelser af xml

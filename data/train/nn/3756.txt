@@ -1,1 +1,1 @@
-ei webside kan òg fungera som «portal» til heilt andre funksjonar på internett td
+hypertekstinnhaldet er pakka inn i formateringskodar som fortel nettlesaren korleis han skal presentera tekst og grafikk og eventuelt lyd for brukaren

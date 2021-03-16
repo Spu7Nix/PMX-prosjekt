@@ -1,1 +1,1 @@
-la mayor parte de las wikis actuales conservan un historial de cambios que permite recuperar fácilmente cualquier estado anterior y ver qué usuario hizo cada cambio lo cual facilita el mantenimiento conjunto y el control de usuarios nocivos
+si se escribe el titulo de una pagina wiki en algun sitio de la wiki entre dobles corchetes titulo de la pagina esta palabra se convierte en un enlace web a la pagina correspondiente

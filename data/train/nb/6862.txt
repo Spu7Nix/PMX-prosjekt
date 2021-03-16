@@ -1,0 +1,1 @@
+typiske prosesser man kan gjoere med et api er get hvor man henter ut data fra for eksempel en database put hvor man gjoer endringer paa spesifikke objekt i for eksempel en database og post hvor man legger til data i for eksempel en database

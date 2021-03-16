@@ -1,1 +1,0 @@
-htmls grammatiske struktur er html dtd som ble skapt ved å gjøre bruk av sgml syntaks som er en internasjonal standard for tekstformatering iso 8879

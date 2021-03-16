@@ -1,1 +1,1 @@
-olika delar av ett program kan vara skrivet i olika programspråk
+olika delar av ett program kan vara skrivet i olika programspraak

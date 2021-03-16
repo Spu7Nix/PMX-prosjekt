@@ -1,0 +1,1 @@
+html like docbook open ebook jats and countless others is a specific application of the markup metalanguages sgml and xml

@@ -1,1 +1,1 @@
-in the absence of an opposing external driving energy source within a body or between bodies temperature differences decay over time and thermal equilibrium is approached temperature becoming more uniform
+thermal conduction is the transfer of internal energy by microscopic collisions of particles and movement of electrons within a body

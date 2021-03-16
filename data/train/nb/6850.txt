@@ -1,1 +1,0 @@
-ofte benyttes apiet som et lag eller grensesnitt mellom høynivå og lavnivåprogrammering

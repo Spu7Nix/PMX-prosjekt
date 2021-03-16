@@ -1,1 +1,1 @@
-el uso ingenuo de tales cálculos produce a menudo diagramas con amplitudes infinitas lo que es intolerable en una teoría física
+cada linea interna corresponde a un factor del propagador de la particula virtual correspondiente cada vertice donde las lineas se reunen da un factor derivado de un termino de interaccion en el lagrangiano y las lineas entrantes y salientes determinan restricciones en la energia el momento y el espin

@@ -1,1 +1,1 @@
-a good example is the cpm software environment essentially wrapped around the s100 bus standard of 1974 at the onset of the personal computer era
+it defines the kinds of calls or requests that can be made how to make them the data formats that should be used the conventions to follow etc

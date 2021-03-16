@@ -1,1 +1,1 @@
-2d flash x3d utilizan programas en el ordenador del usuario para renderizar en tiempo real la animación como una alternativa para la transmisión y para animaciones precargadas para enlaces de alta velocidad
+en la mayor parte de los metodos de animacion por ordenador un animador crea una representacion simplificada de la anatomia de un personaje pues tiene menos dificultad para ser animada

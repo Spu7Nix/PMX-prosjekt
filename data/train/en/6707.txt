@@ -1,1 +1,1 @@
-html like docbook open ebook jats and countless others is a specific application of the markup metalanguages sgml and xml
+in computer text processing a markup language is a system for annotating a document in a way that is syntactically distinguishable from the text meaning when the document is processed for display the markup language is not shown and is only used to format the text

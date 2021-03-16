@@ -1,1 +1,1 @@
-después de realizada la renormalización los cálculos de diagramas de feynman emparejan a menudo resultados experimentales con exactitud muy buena
+  la probabilidad de cada resultado entonces es obtenida sumando sobre todas tales posibilidades

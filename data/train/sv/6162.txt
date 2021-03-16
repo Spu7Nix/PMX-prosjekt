@@ -1,1 +1,0 @@
-strålningens utbredning beskrivs av maxwells ekvationer och den består av ett elektriskt och ett magnetisk fält som oscillerar i rät vinkel mot varandra och mot rörelseriktningen

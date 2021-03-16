@@ -1,1 +1,1 @@
-en principio la información a diferencia de los datos o las percepciones sensibles tienen estructura útil que modificará las sucesivas interacciones del que posee dicha información con su entorno
+informacion es el nombre por el que se conoce un conjunto organizado de datos procesados que constituyen un mensaje que cambia el estado de conocimiento del sujeto o sistema que recibe dicho mensaje

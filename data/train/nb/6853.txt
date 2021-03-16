@@ -1,1 +1,1 @@
-eksempelvis er wine en implementasjon av win32
+et programmeringsgrensesnitt kjent paa engelsk som application programming interface api er et grensesnitt i en programvare som gjoer at spesifikke deler av denne kan aktiveres kjoeres fra en annen programvare

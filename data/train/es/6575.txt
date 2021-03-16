@@ -1,1 +1,0 @@
-si se escribe el título de una página wiki en algún sitio de la wiki entre dobles corchetes título de la página esta palabra se convierte en un «enlace web» a la página correspondiente

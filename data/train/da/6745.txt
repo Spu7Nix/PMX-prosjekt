@@ -1,1 +1,0 @@
-xml bør således benyttes til at indeholde data som skal hentes ind i htmldokumentet og præsenteres

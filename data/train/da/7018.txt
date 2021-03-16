@@ -1,0 +1,1 @@
+3dcomputergrafik selvom 2dcomputergrafik dog stadigt anvendes naar der er behov for lav udnyttelse af baandbredden eller brug for hurtig realtids renderinger

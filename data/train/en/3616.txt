@@ -1,1 +1,0 @@
-github inc is a provider of internet hosting for software development and version control using git

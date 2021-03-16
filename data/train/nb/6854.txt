@@ -1,1 +1,1 @@
-typiske prosesser man kan gjøre med et api er get hvor man henter ut data fra for eksempel en database put hvor man gjør endringer på spesifikke objekt i for eksempel en database og post hvor man legger til data i for eksempel en database
+det betyr at svaert enkle applikasjoner ofte webapplikasjoner kan gjoere endringer kjoere prosesser eller paa annen maate behandle data i en stoerre kontekst

@@ -1,1 +1,1 @@
-in these systems the conserved quantity is  generalized momentum and in general this is different from the kinetic momentum defined above
+newtons second law of motion states that the rate of change of a bodys momentum is equal to the net force acting on it

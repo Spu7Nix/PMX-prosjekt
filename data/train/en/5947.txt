@@ -1,1 +1,1 @@
-the calculation of probability amplitudes in theoretical particle physics requires the use of rather large and complicated integrals over a large number of variables
+feynman diagrams have revolutionized nearly every aspect of theoretical physics

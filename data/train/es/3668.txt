@@ -1,0 +1,1 @@
+el servicio de alojamiento de dns habitualmente viene en conjunto con el registro de dominios

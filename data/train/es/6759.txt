@@ -1,0 +1,1 @@
+  xml no ha nacido unicamente para su aplicacion en internet sino que se propone como un estandar para el intercambio de informacion estructurada entre diferentes plataformas

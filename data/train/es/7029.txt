@@ -1,1 +1,1 @@
-para animaciones 3d los fotogramas deben ser renderizados después de que el modelo es completado
+esta tecnica es identica a la manera en que se logra la ilusion de movimiento en las peliculas y en la television

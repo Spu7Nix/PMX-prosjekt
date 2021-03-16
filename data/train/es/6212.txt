@@ -1,1 +1,1 @@
-excepcionales son los rayos gamma de energía superior a unos gigaelectronvoltios gev miles de mev que al incidir en la atmósfera producen miles de partículas cascada atmosférica extensa los cuales como viajan a velocidades cercanas a la lumínica en el aire generan radiación de cherenkov
+para detectarlos en ambos casos se utiliza el efecto compton

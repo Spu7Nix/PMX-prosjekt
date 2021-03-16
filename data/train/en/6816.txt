@@ -1,1 +1,1 @@
-legal issues around ownership of apis also arise
+in contrast to the era of desktop computing where a desktop application might be predominantly coded against a single vendor os even a relatively simple mobile application is often coded on top on an entire suite of related and overlapping software component apis comprising what is now often referred to as a solution stack

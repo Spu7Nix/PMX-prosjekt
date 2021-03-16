@@ -1,1 +1,1 @@
-advanced formulations of classical mechanics lagrangian and hamiltonian mechanics allow one to choose coordinate systems that incorporate symmetries and constraints
+in si units momentum is measured in kilogram meters per second kgms

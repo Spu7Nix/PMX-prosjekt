@@ -1,1 +1,1 @@
-htmlfiler bruges på internettet især på world wide web
+markup betyder at opmaerke og html bruges til i det skjulte at strukturere hjemmesider og bestemme udseendet

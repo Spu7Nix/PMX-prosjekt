@@ -1,1 +1,1 @@
-this is a type of web hosting service where the hosting provider provisions hosting services for multiple clients on one physical server and shares the resources between the clients
+most hosting providers offer a combination of services  email hosting website hosting and database hosting for example

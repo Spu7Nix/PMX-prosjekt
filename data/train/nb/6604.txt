@@ -1,1 +1,1 @@
-konseptet er slik fordi man utvikler den bestemte tekstsamlingen sammen noe som gjør arbeidet mer effektivt enn om alle hadde sittet og skrevet på hver sin tekstsamling eller nettside
+et saerkjenne med de fleste typer programvare for wikier er at ord enkelt kan gjoeres om til lenker til en nettside internt i wikien med samme navn som lenketeksten

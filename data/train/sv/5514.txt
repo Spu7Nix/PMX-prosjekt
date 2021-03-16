@@ -1,0 +1,1 @@
+ett foeremaals tyngd beraeknas genom att multiplicera dess massa med tyngdaccelerationen det vill saega                                   g                  m         g                 displaystyle  gmg   daer g aer tyngden i newton m aer massan i kg och g aer tyngdaccelerationen i ms2

@@ -1,1 +1,0 @@
-xml extensible markup language er et universelt og utvidbart markeringsspråk og en forenklet videreføring av sgml

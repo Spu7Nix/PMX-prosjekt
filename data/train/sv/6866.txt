@@ -1,0 +1,1 @@
+dessa funktioner kan i sin tur anvaenda funktioner variabler och saa vidare som inte har gjorts tillgaengliga fraan externa program utan har kapslats in bakom apiet

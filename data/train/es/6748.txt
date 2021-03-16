@@ -1,1 +1,0 @@
-xml siglas en inglés de extensible markup language traducido como lenguaje de marcado extensible o lenguaje de marcas extensible es un metalenguaje que permite definir lenguajes de marcas desarrollado por el world wide web consortium w3c utilizado para almacenar datos en forma legible

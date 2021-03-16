@@ -1,1 +1,1 @@
-a diferencia de un gas un líquido no se dispersa para llenar cada espacio de un contenedor pero si mantiene una densidad constante
+el liquido es un estado de agregacion de la materia en forma de fluido altamente incompresible lo que significa que su volumen es casi constante en un rango grande de presion

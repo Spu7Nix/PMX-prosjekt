@@ -1,0 +1,1 @@
+utviklingen har riktignok gaatt mer i retning av striktere spraaklig syntaks men fremdeles forventes nettlesere aa produsere leservennlige sider selv om htmlkoden de er skrevet i er langt fra aa etterleve gjeldende standarder

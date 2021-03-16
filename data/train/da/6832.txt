@@ -1,0 +1,1 @@
+et typisk eksempel paa dette er naar applikationer taler med styresystemet for at aabne en fil hvorefter styresystemet paa programmets vegne vil indlaese filen fra eksempelvis en harddisk

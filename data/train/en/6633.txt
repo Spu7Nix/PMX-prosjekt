@@ -1,1 +1,1 @@
-other tags such as p surround and provide information about document text and may include other tags as subelements
+html describes the structure of a web page semantically and originally included cues for the appearance of the document

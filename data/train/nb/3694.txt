@@ -1,1 +1,1 @@
-webhotell er tilgjengelig på forskjellige plattformer i hovedsak linux og windows
+et webhotell er en tjeneste paa en webserver som gjoer en bruker i stand til aa publisere filer paa internett

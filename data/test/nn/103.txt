@@ -1,1 +1,1 @@
-maskinen skjønar ikkje dette språket direkte difor må det kompilere språket til maskinkode før maskinen eventuelt kan takle instruksjonane
+maskinen skjoenar ikkje dette spraaket direkte difor maa det kompilere spraaket til maskinkode foer maskinen eventuelt kan takle instruksjonane

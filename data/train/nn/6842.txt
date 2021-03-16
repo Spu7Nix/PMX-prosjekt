@@ -1,1 +1,0 @@
-når ein programmerer i høgnivåspråk som til dømes c og java er det vanleg å nytta eit programvarebibliotek som qt med ferdige modular

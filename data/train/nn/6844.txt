@@ -1,1 +1,1 @@
-programmeraren kan da konsentrera seg om funksjonaliteten i staden for detaljar
+programmeringsgrensesnitt en application programming interface api er eit programvarelag mellom eit operativsystem og brukarprogramma paa ei datamaskin

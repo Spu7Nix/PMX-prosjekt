@@ -1,1 +1,1 @@
-los fotogramas pueden ser renderizados en tiempo real mientras estos son presentados al usuario final
+del personaje y posteriormente se animan con controladores de animacion

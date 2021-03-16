@@ -1,1 +1,1 @@
-the world wide web has been central to the development of the information age and is the primary tool billions of people use to interact on the internetweb resources may be any type of downloaded media but web pages are hypertext documents formatted in hypertext markup language html
+the world wide web is not synonymous with the internet which predated the web in some form by over two decades and upon which technologies the web is built

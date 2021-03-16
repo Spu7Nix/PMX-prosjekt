@@ -1,1 +1,0 @@
-utviklingen har riktignok gått mer i retning av striktere språklig syntaks men fremdeles forventes nettlesere å produsere leservennlige sider selv om htmlkoden de er skrevet i er langt fra å etterleve gjeldende standarder

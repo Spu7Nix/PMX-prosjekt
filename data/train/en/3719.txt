@@ -1,1 +1,1 @@
-in addition to text web pages may contain references to images video audio and software components which are either displayed or internally executed in the users web browser to render pages or streams of multimedia content
+he wrote the first web browser in 1990 while employed at cern near geneva switzerland

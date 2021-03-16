@@ -1,0 +1,1 @@
+den har dimensjon pascal eller newtonkvadratmeter og kan defineres for konstant temperatur eller entropi

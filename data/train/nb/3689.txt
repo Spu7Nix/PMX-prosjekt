@@ -1,1 +1,0 @@
-et webhotell er en tjeneste på en webserver som gjør en bruker i stand til å publisere filer på internett

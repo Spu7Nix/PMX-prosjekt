@@ -1,1 +1,0 @@
-an online richtext editor is the interface for editing rich text within web browsers which presents the user with a whatyouseeiswhatyouget wysiwyg editing area

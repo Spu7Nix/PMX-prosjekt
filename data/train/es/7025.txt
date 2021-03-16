@@ -1,1 +1,1 @@
-en la mayor parte de los métodos de animación por ordenador un animador crea una representación simplificada de la anatomía de un personaje pues tiene menos dificultad para ser animada
+cada vez mas los graficos creados son en 3d aunque los graficos en 2d todavia se siguen usando ampliamente para conexiones lentas y aplicaciones en tiempo real que necesitan renderizar rapido

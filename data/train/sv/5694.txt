@@ -1,0 +1,1 @@
+eftersom det aer 36 525 dygn paa ett sekel blir felet i tidraekningen 13 sekunder under ett aarhundrade

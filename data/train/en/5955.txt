@@ -1,0 +1,1 @@
+within the canonical formulation of quantum field theory a feynman diagram represents a term in the wicks expansion of the perturbative smatrix

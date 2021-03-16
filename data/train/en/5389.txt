@@ -1,1 +1,1 @@
-this is because weight is a force while mass is the property that along with gravity determines the strength of this force
+mass is both a property of a physical body and a measure of its resistance to acceleration a change in its state of motion when a net force is applied

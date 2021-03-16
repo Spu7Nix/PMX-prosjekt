@@ -1,1 +1,1 @@
-feynman mostró cómo calcular las amplitudes del diagrama usando las así llamadas reglas de feynman que se pueden derivar del lagrangiano subyacente al sistema
+  su autor es el fisico estadounidense richard feynman que los introdujo por primera vez en 1948 publicandose su caracterizacion en un famoso articulo de 1949

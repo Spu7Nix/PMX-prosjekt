@@ -1,1 +1,1 @@
-web browsers receive html documents from a web server or from local storage and render the documents into multimedia web pages
+mozilla followed suit in version 13 and most major browsers now implement this informal standard in some capacitythe technical capabilities needed to implement an online rich text editor were not covered by the w3c specifications for html4

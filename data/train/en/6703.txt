@@ -1,1 +1,0 @@
-this lets authors avoid formatting every instance of the same kind of thing redundantly and possibly inconsistently

@@ -1,1 +1,1 @@
-esto se liga a la formulación integral funcional de la mecánica cuántica también inventada por feynman —véase la formulación integral de trayectorias
+feynman mostro como calcular las amplitudes del diagrama usando las asi llamadas reglas de feynman que se pueden derivar del lagrangiano subyacente al sistema

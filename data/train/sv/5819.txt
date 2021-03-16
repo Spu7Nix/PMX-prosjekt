@@ -1,1 +1,1 @@
-att det krävs allt högre spänning för att ytterligare deformera materialet
+dragspaenning eller normalspaenning definieras som den negativa spaenning som uppstaar i en enaxligt belastad staang utsatt foer en dragkraft

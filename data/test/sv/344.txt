@@ -1,1 +1,1 @@
-projektet bygger på wikiprogramvaran mediawiki som är fri programvara och har öppen källkod
+projektet bygger paa wikiprogramvaran mediawiki som aer fri programvara och har oeppen kaellkod

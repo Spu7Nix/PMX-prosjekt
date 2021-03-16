@@ -1,1 +1,1 @@
-a spring scale will only read correctly in a frame of reference where the acceleration in the spring axis is constant such as on earth where the acceleration is due to gravity
+it works by hookes law which states that the force needed to extend a spring is proportional to the distance that spring is extended from its rest position

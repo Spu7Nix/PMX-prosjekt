@@ -1,1 +1,1 @@
-while a differential may also provide gear reduction its primary purpose is to permit the wheels at either end of an axle to rotate at different speeds essential to avoid wheel slippage on turns as it changes the direction of rotation
+this switching may be done manually by the operator or automatically by a control unit

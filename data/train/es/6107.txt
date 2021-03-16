@@ -1,1 +1,1 @@
-la forma de las ondas electromagnéticas depende de la fuente que las genera y de la distancia recorrida por las mismas
+la generacion y la propagacion de estas ondas son compatibles con el modelo de ecuaciones matematicas definido en las ecuaciones de maxwell

@@ -1,0 +1,1 @@
+markup language eller opmaerkningssprog kombinerer tekst og ekstra information om teksten

@@ -1,1 +1,1 @@
-in some branches of engineering the term stress is occasionally used in a looser sense as a synonym of internal force
+significant stress may exist even when deformation is negligible or nonexistent a common assumption when modeling the flow of water

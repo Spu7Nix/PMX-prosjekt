@@ -1,1 +1,0 @@
-de eksakte kravene til et konkret språk som bygger på xml fastsettes av en dtd eller et xmlskjema spesielt xml schema xsd

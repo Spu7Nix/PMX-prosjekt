@@ -1,1 +1,1 @@
-photons in this context do not collide with one another and so heat transport by electromagnetic radiation is conceptually distinct from heat conduction by microscopic diffusion and collisions of material particles and phonons
+in contrast in heat transfer by thermal radiation the transfer is often between bodies which may be separated spatially

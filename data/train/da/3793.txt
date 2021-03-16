@@ -1,1 +1,0 @@
-en ofte set kort beskrivelse af et informationssystem er input – proces – output som hentyder til at systemet modtager informationer fra dets omgivelser behandler disse informationer og afleverer et resultat af behandlingen tilbage til omgivelserne

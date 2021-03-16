@@ -1,1 +1,0 @@
-dragspänning eller normalspänning definieras som den negativa spänning som uppstår i en enaxligt belastad stång utsatt för en dragkraft

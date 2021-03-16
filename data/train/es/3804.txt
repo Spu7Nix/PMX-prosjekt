@@ -1,1 +1,1 @@
-estrictamente hablando un sistema de información no tiene por qué disponer de dichos recursos aunque en la práctica esto no suela ocurrir
+en informatica los sistemas de informacion ayudan a administrar recolectar recuperar procesar almacenar y distribuir informacion relevante para los procesos fundamentales y las particularidades de cada organizacion

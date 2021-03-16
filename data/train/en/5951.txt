@@ -1,1 +1,1 @@
-alternatively the path integral formulation of quantum field theory represents the transition amplitude as a weighted sum of all possible histories of the system from the initial to the final state in terms of either particles or fields
+thus antiparticles are represented as moving backward along the time axis in feynman diagrams

@@ -1,1 +1,0 @@
-større og mindre einingar har eit prefiks som syner at den etterfølgjande eininga skal dividerast eller multipliserast med ein potens av ti

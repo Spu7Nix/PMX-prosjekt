@@ -1,1 +1,0 @@
-tide tables can be used for any given locale to find the predicted times and amplitude or tidal range

@@ -1,1 +1,1 @@
-a feynman diagram is a graphical representation of a perturbative contribution to the transition amplitude or correlation function of a quantum mechanical or statistical field theory
+frank wilczek wrote that the calculations which won him the 2004 nobel prize in physics would have been literally unthinkable without feynman diagrams as would wilczeks calculations that established a route to production and observation of the higgs particle

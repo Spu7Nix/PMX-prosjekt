@@ -1,1 +1,0 @@
-sin embargo no son lo mismo ya que el lenguaje de marcado no tiene funciones aritméticas o variables como poseen los lenguajes de programación

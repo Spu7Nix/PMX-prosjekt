@@ -1,1 +1,0 @@
-the world wide web consortiums xml 10 specification of 1998 and several other related specifications—all of them free open standards—define xmlthe design goals of xml emphasize simplicity generality and usability across the internet

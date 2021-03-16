@@ -1,1 +1,1 @@
-dette inneber at maskina veit å verdsetje dei resultata som handlingane gjev at det blir knytt verdiar til utfallet som kan løne gode handlingar og straffe uheldige aksjonar
+dette inneber at maskina veit aa verdsetje dei resultata som handlingane gjev at det blir knytt verdiar til utfallet som kan loene gode handlingar og straffe uheldige aksjonar

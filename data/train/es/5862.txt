@@ -1,1 +1,1 @@
-no obstante tras el desarrollo de la física moderna esta manera de operar no resultó ser la más conveniente para abordar esta magnitud fundamental
+en mecanica clasica la cantidad de movimiento se define como el producto de la masa del cuerpo y su velocidad en un instante determinado

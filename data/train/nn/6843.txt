@@ -1,1 +1,0 @@
-programkoden kommuniserer då med funksjonar i førehandsdefinerte object i staden for brukargrensesnittet til operativsystemet

@@ -1,1 +1,0 @@
-in principle however the intention of the technique is never to imitate real anatomy or physical processes but only to control the deformation of the mesh data

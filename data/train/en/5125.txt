@@ -1,1 +1,1 @@
-automatic transmissions use a valve body to shift gears using fluid pressures in response to speed and throttle input
+while a differential may also provide gear reduction its primary purpose is to permit the wheels at either end of an axle to rotate at different speeds essential to avoid wheel slippage on turns as it changes the direction of rotation

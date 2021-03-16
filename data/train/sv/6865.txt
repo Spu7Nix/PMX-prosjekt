@@ -1,0 +1,1 @@
+biblioteket blir en mjukvarukomponent i applikationen och utgoers vanligen av en uppsaettning funktioner som aer tillgaengliga foer applikationen att anropa variabler som den kan laesa ocheller aendra samt datatyper och klasser som den kan anvaenda

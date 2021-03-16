@@ -1,0 +1,1 @@
+maerkspraak engelska markup language sidbeskrivningsspraak aer ett format foer dokument bestaaende av saerskilda textkoder saa kallade taggar eller element som inte syns naer dokumentet presenteras foer anvaendaren i dess slutgiltiga form

@@ -1,1 +1,1 @@
-en læringsalgoritme bruker et sett treningsdata for å utvikle eller forbedre en atferd
+en laeringsalgoritme bruker et sett treningsdata for aa utvikle eller forbedre en atferd

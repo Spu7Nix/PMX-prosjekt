@@ -1,0 +1,1 @@
+por ejemplo expresado en unidades electricas el vatio se puede expresar como w  v  a aunque en ingenieria electrica esta expresion suele usarse exclusivamente para la potencia aparente en circuitos de ca en unidades usadas en la hidraulica w  pa  m3s

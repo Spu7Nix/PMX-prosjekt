@@ -1,0 +1,1 @@
+2d flash x3d utilizan programas en el ordenador del usuario para renderizar en tiempo real la animacion como una alternativa para la transmision y para animaciones precargadas para enlaces de alta velocidad

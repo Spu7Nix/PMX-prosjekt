@@ -1,0 +1,1 @@
+sin embargo desde un punto de vista legal y practico se establece que el peso cuando el sistema de referencia es la tierra comprende no solo la fuerza gravitatoria local sino tambien la fuerza centrifuga local debido a la rotacion de la tierra por el contrario el empuje atmosferico no se incluye ni ninguna otra fuerza externa

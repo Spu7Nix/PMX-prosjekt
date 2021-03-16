@@ -1,0 +1,1 @@
+likewise markup for natural language texts must maintain ordering it would not suffice to make each paragraph of a book into a paragraph record where those records do not maintain order

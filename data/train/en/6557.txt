@@ -1,1 +1,1 @@
-in addition to wikipedia there are hundreds of thousands of other wikis in use both public and private including wikis functioning as knowledge management resources notetaking tools community websites and intranets
+some wiki engines are open source whereas others are proprietary

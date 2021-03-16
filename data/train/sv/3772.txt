@@ -1,1 +1,1 @@
-en samling webbsidor som lagras på en specifik webbserver kallas en webbplats
+world wide web datatermgruppen rekommenderar istaellet webben eller www med smaa bokstaever aer en tjaenst som goer webbsidor och andra datafiler aatkomliga via internet eller intranaet

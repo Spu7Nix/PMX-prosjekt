@@ -1,1 +1,1 @@
-målingar på den fysiske jordoverflata blir først projisert til den valde referanseellipsoiden for deretter å bli overført til eit kartplan ved ein vald kartprojeksjon
+forma og storleiken av ein rotasjonsellipsoide blir avgjort av forma og storleiken til tverrsnitta langs rotasjonsaksen det vil seie av ellipsen som blir brukt for aa skape han

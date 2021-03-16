@@ -1,0 +1,1 @@
+en rotationsellipsoid eller sfaeroid aer den rotationskropp som uppstaar daa en ellips roterar kring den ena av sina axlar och aer saaledes ett specialfall av en ellipsoid

@@ -1,0 +1,1 @@
+  para el caso simplificado de flujo de calor estacionario en una sola direccion el calor transmitido es proporcional al area perpendicular al flujo de calor a la conductividad del material y a la diferencia de temperatura y es inversamente proporcional al espesor  

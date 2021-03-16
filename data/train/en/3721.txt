@@ -1,1 +1,1 @@
-websites are stored in computers that are running a web server which is a program that responds to requests made over the internet from web browsers running on a users computer
+the web began to enter everyday use in 19934 when websites for general use started to become available

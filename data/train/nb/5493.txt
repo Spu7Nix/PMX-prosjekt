@@ -1,1 +1,1 @@
-tyngdekraften på en masse i fritt fall vil avhenge av hvilket referansesystem den måles i i et inertialsystem er den kun påvirket av gravitasjonskraften og vil få en akselerasjon  som er gitt ved newtons andre lov
+som alle andre krefter angis tyngdekraften i sisystemet i  enheten newton n

@@ -1,1 +1,1 @@
-men utsettes hen for en akselerasjon vil dette føles som en kraft som ikke kan skilles fra en vanlig gravitasjonskraft
+tyngdekraften paa en masse i fritt fall vil avhenge av hvilket referansesystem den maales i i et inertialsystem er den kun paavirket av gravitasjonskraften og vil faa en akselerasjon  som er gitt ved newtons andre lov

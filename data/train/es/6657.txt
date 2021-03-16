@@ -1,1 +1,1 @@
-html es un lenguaje de marcado que nos permite indicar la estructura de nuestro documento mediante etiquetas
+es un estandar a cargo del world wide web consortium w3c o consorcio www organizacion dedicada a la estandarizacion de casi todas las tecnologias ligadas a la web sobre todo en lo referente a su escritura e interpretacion

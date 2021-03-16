@@ -1,0 +1,1 @@
+para animaciones 3d los fotogramas deben ser renderizados despues de que el modelo es completado

@@ -1,1 +1,1 @@
-html can embed programs written in a scripting language such as javascript which affects the behavior and content of web pages
+with html constructs images and other objects such as interactive forms may be embedded into the rendered page

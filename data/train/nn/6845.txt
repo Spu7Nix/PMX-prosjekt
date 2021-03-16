@@ -1,0 +1,1 @@
+foeremaalet med eit programmeringsgrensesnitt er aa standardisera kommunikasjonen mellom brukarprogramma og operativsystemet slik at same brukarprogramkode kan rekompilerast og nyttast paa fleire ulike operativsystem

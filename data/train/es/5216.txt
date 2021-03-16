@@ -1,1 +1,1 @@
-esta relación se puede utilizar a su vez para definir la unidad voltio
+como unidad de trabajo el julio se define como la cantidad de trabajo realizado por una fuerza constante de un newton en un metro de longitud en la misma direccion de la fuerza

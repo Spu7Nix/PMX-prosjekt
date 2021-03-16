@@ -1,1 +1,1 @@
-el funcionario que preside el senado es el vicepresidente de los estados unidos quien es presidente del senado
+  cada estado es representado por dos senadores independientemente de su poblacion elegidos por un mandato reelegible de seis anos

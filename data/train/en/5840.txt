@@ -1,1 +1,0 @@
-if m is an objects mass and v is its velocity also a vector quantity then the objects momentum is                                   p                           m                    v                  

@@ -1,1 +1,0 @@
-modern computer animation usually uses 3d computer graphics to generate a twodimensional picture although 2d computer graphics are still used for stylistic low bandwidth and faster realtime renderings

@@ -1,1 +1,0 @@
-con un navegador web un usuario visualiza sitios web compuestos de páginas web que pueden contener textos imágenes vídeos u otros contenidos multimedia permitiendo la navegación a través de esas páginas usando hiperenlaces

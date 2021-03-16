@@ -1,1 +1,1 @@
-while the diagrams are applied primarily to quantum field theory they can also be used in other fields such as solidstate theory
+in theoretical physics a feynman diagram is a pictorial representation of the mathematical expressions describing the behavior and interaction of subatomic particles

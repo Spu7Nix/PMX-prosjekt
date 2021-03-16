@@ -1,1 +1,1 @@
-for example in the analysis of trusses it may refer to the total traction or compression force acting on a beam rather than the force divided by the area of its crosssection
+stress may exist in the absence of external forces such builtin stress is important for example in prestressed concrete and tempered glass

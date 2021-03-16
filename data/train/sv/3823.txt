@@ -1,1 +1,1 @@
-informationssystem delas traditionellt in i system för administrativ databehandling adb idag ofta kallat affärssystem som främst understödjer affärsprocesser där människor är aktörer och teknisk databehandling tdb som främst understödjer maskiner och andra informationssystem
+den haer definitionen bestaar egentligen av tre delar

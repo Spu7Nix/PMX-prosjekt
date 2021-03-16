@@ -1,1 +1,0 @@
-el código de los proyectos alojados en github se almacena típicamente de forma pública
