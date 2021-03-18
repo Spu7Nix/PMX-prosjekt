@@ -74,10 +74,10 @@ text = ''
 def main():
     global tokens, result, text
     width, height = 640, 480
-    tbw, tbh = 300, 32
+    tbw, tbh = 300, 48
 
-    screen = pg.display.set_mode((width, height))
-    font = pg.font.Font(None, 32)
+    screen = pg.display.set_mode((width, height), pg.RESIZABLE)
+    font = pg.font.Font(None, tbh)
     clock = pg.time.Clock()
 
     textbox = pg.Rect(width / 2 - tbw / 2, height * 0.1 - tbh / 2, tbw, tbh)
@@ -87,6 +87,7 @@ def main():
     done = False
 
     while not done:
+        width, height = screen.get_size()
         for event in pg.event.get():
             if event.type == pg.QUIT:
                 done = True

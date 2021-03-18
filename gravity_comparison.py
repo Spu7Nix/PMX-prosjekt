@@ -210,6 +210,12 @@ def main():
 
     input_body = Body([], [0, 0])
 
+    selected = None
+    selected_pos = [0, 0]
+    selected_orig_pos = [0, 0]
+
+    r = 10
+    avg_pos = [0, 0]
     while not done:
         width, height = screen.get_size()
         for event in pg.event.get():
@@ -239,6 +245,25 @@ def main():
                 text = text.translate(
                     str.maketrans('', '', string.punctuation))
                 input_body.weights = run_model(text)
+            if event.type == pg.MOUSEBUTTONDOWN:
+                selected_pos = pg.mouse.get_pos()
+                map_pos = [selected_pos[0] - width / 2 +
+                           avg_pos[0], selected_pos[1] - height / 2 + avg_pos[1]]
+                for i in range(langs):
+                    if (map_pos[0] - main_bodies[i].pos[0]) ** 2 + (map_pos[1] - main_bodies[i].pos[1]) ** 2 < (r * 2) ** 2:
+                        selected = i
+                        selected_orig_pos = main_bodies[i].pos
+                        break
+            if event.type == pg.MOUSEBUTTONUP:
+                selected = None
+
+        if selected != None:
+            mouse_pos = pg.mouse.get_pos()
+            main_bodies[selected].pos[0] = selected_orig_pos[0] + \
+                (mouse_pos[0] - selected_pos[0]) * 0.1
+            main_bodies[selected].pos[1] = selected_orig_pos[1] + \
+                (mouse_pos[1] - selected_pos[1]) * 0.1
+
         screen.fill((0, 0, 0))
 
         # Render the current text.
@@ -257,7 +282,8 @@ def main():
             positions.append(main_bodies[i].pos)
 
         for i in range(langs):
-            main_bodies[i].affect(positions)
+            if selected != i:
+                main_bodies[i].affect(positions)
 
         input_body.affect(positions)
 
@@ -269,8 +295,6 @@ def main():
         avg_pos[1] += input_body.pos[1]
         avg_pos[0] /= langs + 1
         avg_pos[1] /= langs + 1
-
-        r = 10
 
         for i in range(langs):
             for j in range(langs):
@@ -307,6 +331,13 @@ def main():
                 r - avg_pos[1], r * 2, r * 2
             )
             # print(rect)
+            if i == selected:
+                bigrect = pg.Rect(
+                    width / 2 + main_bodies[i].pos[0] - r * 2 - avg_pos[0],
+                    height / 2 + main_bodies[i].pos[1] -
+                    r * 2 - avg_pos[1], r * 4, r * 4
+                )
+                pg.draw.ellipse(screen, pg.Color("blue"), bigrect, 2)
 
             pg.draw.ellipse(screen, pg.Color(colors[i]), rect, 2)
             txt_surface = font.render(
